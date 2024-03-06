@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "705009278546",
+    "firebase_url": "https://aimetaverse-d40f4-default-rtdb.firebaseio.com",
+    "project_id": "aimetaverse-d40f4",
+    "storage_bucket": "aimetaverse-d40f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705009278546:android:66823db910504c1bfb498b",
+        "android_client_info": {
+          "package_name": "world.ailabs.AiMetaVerse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS0xpmGnzSMKDMjStQp8mtlFuCS7TgGdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

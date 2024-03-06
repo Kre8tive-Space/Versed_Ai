@@ -1,0 +1,74 @@
+2024-02-03T17:17:48.538Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-03T17:17:48.633Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T17:17:48.676Z info 	[SSE] Received: {
+  type: 'LoginSuccess',
+  username: '<USER>',
+  email: '<EMAIL>',
+  entitlements: { isProUser: false, planName: 'personal' },
+  accessToken: '[REDACTED]'
+}
+2024-02-03T17:41:57.640Z info 	[HTTP] 200: POST /analytics/track
+2024-02-03T17:41:58.108Z info 	[HTTP] 200: POST /analytics/track
+2024-02-03T17:41:58.826Z info 	[HTTP] 200: POST /analytics/track
+2024-02-03T17:42:07.414Z info 	open with opts: { name: 'dashboard' }
+2024-02-03T17:42:12.406Z info 	[HTTP] 200: POST /analytics/track
+2024-02-03T17:42:31.066Z info 	[IPC] desktopGoBackend/getFeatures:
+2024-02-03T17:42:31.068Z info 	[IPC] desktopGoBackend/getSettings:
+2024-02-03T17:42:31.068Z info 	[IPC] desktopGoBackend/getVersions:
+2024-02-03T17:42:31.069Z info 	[IPC] desktopGoBackend/defaultEditor:
+2024-02-03T17:42:31.070Z info 	[IPC] desktopGoBackend/getSystemInfo:
+2024-02-03T17:42:31.073Z info 	[IPC] desktopGoBackend/getInstallStatus:
+2024-02-03T17:42:31.073Z info 	[IPC] desktopGoBackend/getPauseState:
+2024-02-03T17:42:31.074Z info 	[IPC] extensionsBackend/getOS: []
+2024-02-03T17:42:31.074Z info 	[IPC] desktopGoBackend/getUUID:
+2024-02-03T17:42:31.076Z info 	[IPC] desktopGoBackend/getKubernetes:
+2024-02-03T17:42:31.077Z info 	[IPC] desktopGoBackend/getDockerState:
+2024-02-03T17:42:31.402Z info 	[IPC] extensions.extensionsBackendEvents: Started streaming ([{}])
+2024-02-03T17:42:31.403Z info 	[HTTP] 200: GET /backend/state
+2024-02-03T17:42:31.407Z info 	[HTTP] 200: GET /install/check
+2024-02-03T17:42:31.407Z info 	[HTTP] 200: GET /versions
+2024-02-03T17:42:31.409Z info 	[HTTP] 200: GET /system/info
+2024-02-03T17:42:31.409Z info 	[HTTP] 200: GET /kubernetes
+2024-02-03T17:42:31.421Z info 	[HTTP] 200: GET /uuid
+2024-02-03T17:42:31.421Z info 	[HTTP] 200: GET /docker
+2024-02-03T17:42:31.743Z info 	[HTTP] 200: GET /features
+2024-02-03T17:42:32.091Z info 	[HTTP] 200: GET /app/settings
+2024-02-03T17:42:32.369Z info 	[SSEManager] Init SSE streams to browser window after it is loaded
+2024-02-03T17:42:33.696Z info 	[IPC] desktopGoBackend/getSystemDiskUsage: /Users/<USER>/Library/Containers/com.docker.docker/Data/vms/0/data
+2024-02-03T17:42:33.818Z info 	[HTTP] 200: GET /system/editor
+2024-02-03T17:42:33.818Z info 	[HTTP] 200: GET /system/disk-usage?path=%2FUsers%2F<USER>%2FLibrary%2FContainers%2Fcom.docker.docker%2FData%2Fvms%2F0%2Fdata
+2024-02-03T17:42:34.658Z info 	[HTTP] 200: POST /analytics/track
+2024-02-03T17:42:35.156Z info 	[HTTP] 200: GET /store/categories
+2024-02-03T17:42:35.860Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-03T17:42:35.866Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-03T17:42:36.080Z info 	[IPC] extensions.extensionsBackendEvents: Unsubscribed after 4678ms, emitted 0 times
+2024-02-03T17:42:36.239Z info 	[HTTP] 200: GET /store/categories
+2024-02-03T17:42:39.377Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-03T17:42:41.597Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-03T17:42:42.117Z info 	[HTTP] 200: GET /store
+2024-02-03T17:42:42.286Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/users/aimetaverse/ redirecting to v2/users/aimetaverse/
+2024-02-03T17:42:42.287Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-03T17:42:43.986Z info 	[IPC] desktopGoBackend/track: eventEngineState { action: 'EngineScreenDisplayed', state: 'EngineStarting' }
+2024-02-03T17:42:43.988Z info 	[HTTP] 200: POST /analytics/track
+2024-02-03T17:42:44.679Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-03T17:42:46.211Z info 	[HTTP] 200: GET https://hub.docker.com/v2/users/aimetaverse/
+2024-02-03T17:42:55.772Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-03T17:42:56.095Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-03T17:43:30.944Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-03T17:43:31.129Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-03T17:43:35.147Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-03T17:43:35.295Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-03T17:52:19.948Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-03T17:52:27.589Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-03T17:52:29.907Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-03T17:52:40.642Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-03T17:52:44.788Z info 	[IPC] desktopGoBackend/getFeatures:
+2024-02-03T17:52:48.331Z info 	[HTTP] 200: GET /features
+2024-02-03T17:52:52.760Z info 	[HTTP] 200: GET /store/categories
+2024-02-03T17:53:06.937Z info 	[HTTP] 200: GET /store
+2024-02-03T17:53:26.037Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-03T17:55:51.350Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-03T17:56:22.306Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-03T17:57:50.882Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-03T17:58:34.241Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-03T17:58:38.909Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100

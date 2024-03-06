@@ -1,0 +1,1891 @@
+2024-02-07T10:08:40.845Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:08:40.959Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:08:41.008Z info 	[SSE] Received: {
+  type: 'LoginSuccess',
+  username: '<USER>',
+  email: '<EMAIL>',
+  entitlements: { isProUser: false, planName: 'personal' },
+  accessToken: '[REDACTED]'
+}
+2024-02-07T10:10:30.695Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:10:31.423Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:10:31.724Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:10:55.754Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:10:56.446Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:10:56.520Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:10:56.618Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'stopping',
+  idle: 'running',
+  state: 'stopping',
+  mode: 'linux'
+}
+2024-02-07T10:11:10.560Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:11:10.573Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:11:10.590Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'stopping',
+  idle: 'running',
+  state: 'stopping',
+  mode: 'linux'
+}
+2024-02-07T10:11:10.915Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:11:10.916Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:11:10.930Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'stopping',
+  idle: 'running',
+  state: 'stopping',
+  mode: 'linux'
+}
+2024-02-07T10:11:11.646Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:11:11.653Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:11:11.665Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'stopping',
+  idle: 'running',
+  state: 'stopping',
+  mode: 'linux'
+}
+2024-02-07T10:11:11.864Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:11:11.865Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:11:11.878Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'stopping',
+  idle: 'running',
+  state: 'stopping',
+  mode: 'linux'
+}
+2024-02-07T10:11:12.037Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:11:12.039Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:11:12.047Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'stopped',
+  idle: 'running',
+  state: 'stopped',
+  mode: 'linux'
+}
+2024-02-07T10:11:12.586Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:11:12.588Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:11:12.589Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:11:14.706Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:11:14.707Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:11:14.717Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:11:14.884Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:11:14.885Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:11:15.447Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:11:16.615Z info 	[IPC] engine.dockerStreamEvents: Unsubscribed after 104060037ms, emitted 2 times
+2024-02-07T10:11:16.617Z info 	[IPC] engine.dockerStreamEvents: Unsubscribed after 104060430ms, emitted 2 times
+2024-02-07T10:12:32.423Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:12:32.425Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:12:32.428Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:12:32.699Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:12:32.700Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:12:32.702Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:12:32.813Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:12:32.814Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:12:32.818Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:12:33.059Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:12:33.065Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:12:33.071Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:12:33.393Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:12:33.394Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:12:33.398Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:12:33.574Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:12:33.575Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:12:33.579Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:13:24.671Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:13:24.674Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:13:24.676Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:13:24.677Z info 	[INDEX] listening for new images
+2024-02-07T10:13:24.770Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:13:24.796Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:13:24.800Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'running',
+  idle: 'running',
+  state: 'running',
+  mode: 'linux'
+}
+2024-02-07T10:13:24.807Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:13:24.808Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:13:24.810Z info 	[SSE] Received: { state: 'starting', enabled: true }
+2024-02-07T10:13:35.154Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:13:35.156Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:13:38.142Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:13:38.143Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:13:38.212Z info 	[SSE] Received: {
+  state: 'failed to start',
+  enabled: true,
+  error: '{"type":"*errordef.dockerDesktopError","component":"kubernetes","originalError":{"type":"*fmt.wrapError","error":{"type":"*fmt.wrapError","error":{"type":"*httpstatus.HTTPError","description":"status code not OK but 500: {\\"message\\":\\"checking kubernetes configuration: resetting if PKI: diffing PKI: walking directory /var/lib/kubeadm/pki: walking /var/lib/kubeadm/pki: lstat /var/lib/kubeadm/pki: no such file or directory\\"}\\n{\\"message\\":\\"checking kubernetes configuration: resetting if PKI: diffing PKI: walking directory /var/lib/kubeadm/pki: walking /var/lib/kubeadm/pki: lstat /var/lib/kubeadm/pki: no such file or directory\\"}\\n"},"message":"starting kubernetes"},"message":"starting kubernetes"},"creationTime":1707300818110135000,"creationFile":"common/cmd/com.docker.backend/internal/kubernetes/manager.go","creationLine":111}'
+}
+2024-02-07T10:13:38.226Z info 	[HTTP] 200: POST /engine/restart
+2024-02-07T10:13:38.701Z info 	[HTTP] 200: GET /app/settings
+2024-02-07T10:13:42.696Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:13:53.498Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:13:53.688Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:13:53.693Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:13:53.695Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'stopping',
+  idle: 'running',
+  state: 'stopping',
+  mode: 'linux'
+}
+2024-02-07T10:14:05.077Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:14:05.078Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:14:05.080Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'stopping',
+  idle: 'running',
+  state: 'stopping',
+  mode: 'linux'
+}
+2024-02-07T10:14:05.329Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:14:05.331Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:14:05.634Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'stopping',
+  idle: 'running',
+  state: 'stopping',
+  mode: 'linux'
+}
+2024-02-07T10:14:05.958Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:14:05.960Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:14:05.963Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'stopping',
+  idle: 'running',
+  state: 'stopping',
+  mode: 'linux'
+}
+2024-02-07T10:14:06.195Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:14:06.196Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:14:06.198Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'stopping',
+  idle: 'running',
+  state: 'stopping',
+  mode: 'linux'
+}
+2024-02-07T10:14:06.398Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:14:06.399Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:14:06.401Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'stopped',
+  idle: 'running',
+  state: 'stopped',
+  mode: 'linux'
+}
+2024-02-07T10:14:06.613Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:14:06.615Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:14:06.618Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:14:06.798Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:14:06.799Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:14:06.800Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:14:06.857Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:14:06.859Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:14:06.871Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:14:31.875Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:14:31.876Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:14:31.878Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:14:32.095Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:14:32.096Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:14:32.098Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:14:32.377Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:14:32.379Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:14:32.380Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:14:32.569Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:14:32.570Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:14:32.577Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:14:32.837Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:14:32.838Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:14:32.840Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:14:33.224Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:14:33.225Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:14:33.227Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:15:26.851Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:15:26.853Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:15:26.856Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:15:26.856Z info 	[INDEX] listening for new images
+2024-02-07T10:15:26.861Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:15:26.863Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:15:26.865Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'running',
+  idle: 'running',
+  state: 'running',
+  mode: 'linux'
+}
+2024-02-07T10:15:26.869Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:15:26.870Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:15:26.874Z info 	[SSE] Received: { state: 'starting', enabled: true }
+2024-02-07T10:15:34.697Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:15:34.698Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:15:35.378Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:15:35.379Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:15:35.381Z info 	[SSE] Received: {
+  state: 'failed to start',
+  enabled: true,
+  error: '{"type":"*errordef.dockerDesktopError","component":"kubernetes","originalError":{"type":"*fmt.wrapError","error":{"type":"*fmt.wrapError","error":{"type":"*httpstatus.HTTPError","description":"status code not OK but 500: {\\"message\\":\\"checking kubernetes configuration: resetting if PKI: diffing PKI: walking directory /var/lib/kubeadm/pki: walking /var/lib/kubeadm/pki: lstat /var/lib/kubeadm/pki: no such file or directory\\"}\\n{\\"message\\":\\"checking kubernetes configuration: resetting if PKI: diffing PKI: walking directory /var/lib/kubeadm/pki: walking /var/lib/kubeadm/pki: lstat /var/lib/kubeadm/pki: no such file or directory\\"}\\n"},"message":"starting kubernetes"},"message":"starting kubernetes"},"creationTime":1707300935374547000,"creationFile":"common/cmd/com.docker.backend/internal/kubernetes/manager.go","creationLine":111}'
+}
+2024-02-07T10:15:35.382Z info 	[HTTP] 200: POST /engine/restart
+2024-02-07T10:15:35.458Z info 	[HTTP] 200: GET /app/settings
+2024-02-07T10:15:48.782Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:15:49.425Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:15:58.404Z info 	open with opts: { name: 'dashboard', path: '/marketplace?tab=installed' }
+2024-02-07T10:16:38.551Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:16:40.261Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:16:50.071Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:16:50.600Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:16:50.620Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:16:50.622Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'stopping',
+  idle: 'running',
+  state: 'stopping',
+  mode: 'linux'
+}
+2024-02-07T10:17:01.715Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:17:01.717Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:17:01.719Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'stopping',
+  idle: 'running',
+  state: 'stopping',
+  mode: 'linux'
+}
+2024-02-07T10:17:01.963Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:17:01.964Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:17:01.966Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'stopping',
+  idle: 'running',
+  state: 'stopping',
+  mode: 'linux'
+}
+2024-02-07T10:17:02.328Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:17:02.329Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:17:02.332Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'stopping',
+  idle: 'running',
+  state: 'stopping',
+  mode: 'linux'
+}
+2024-02-07T10:17:02.437Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:17:02.438Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:17:02.440Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'stopping',
+  idle: 'running',
+  state: 'stopping',
+  mode: 'linux'
+}
+2024-02-07T10:17:02.495Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:17:02.496Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:17:02.498Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'stopped',
+  idle: 'running',
+  state: 'stopped',
+  mode: 'linux'
+}
+2024-02-07T10:17:02.527Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:17:02.528Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:17:02.530Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:17:02.691Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:17:02.718Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:17:02.719Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:17:02.843Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:17:02.845Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:17:02.849Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:17:10.867Z info 	[IPC] desktopGoBackend/getFeatures:
+2024-02-07T10:17:10.874Z info 	[IPC] desktopGoBackend/getSettings:
+2024-02-07T10:17:10.875Z info 	[IPC] desktopGoBackend/getVersions:
+2024-02-07T10:17:10.876Z info 	[IPC] desktopGoBackend/defaultEditor:
+2024-02-07T10:17:10.876Z info 	[IPC] desktopGoBackend/getSystemInfo:
+2024-02-07T10:17:10.878Z info 	[IPC] desktopGoBackend/getInstallStatus:
+2024-02-07T10:17:10.879Z info 	[IPC] desktopGoBackend/getPauseState:
+2024-02-07T10:17:10.882Z info 	[IPC] extensionsBackend/getOS: []
+2024-02-07T10:17:10.882Z info 	[IPC] desktopGoBackend/getUUID:
+2024-02-07T10:17:10.883Z info 	[IPC] desktopGoBackend/getKubernetes:
+2024-02-07T10:17:10.884Z info 	[IPC] desktopGoBackend/getDockerState:
+2024-02-07T10:17:10.976Z info 	[HTTP] 200: GET /kubernetes
+2024-02-07T10:17:10.976Z info 	[HTTP] 200: GET /docker
+2024-02-07T10:17:10.979Z info 	[HTTP] 200: GET /features
+2024-02-07T10:17:11.001Z info 	[HTTP] 200: GET /backend/state
+2024-02-07T10:17:11.045Z info 	[HTTP] 200: GET /system/info
+2024-02-07T10:17:11.220Z info 	[HTTP] 200: GET /uuid
+2024-02-07T10:17:11.299Z info 	[IPC] extensions.extensionsBackendEvents: Started streaming ([{}])
+2024-02-07T10:17:11.300Z info 	[HTTP] 200: GET /versions
+2024-02-07T10:17:11.301Z info 	[HTTP] 200: GET /app/settings
+2024-02-07T10:17:13.936Z info 	[HTTP] 200: GET /install/check
+2024-02-07T10:17:15.368Z info 	[SSEManager] Init SSE streams to browser window after it is loaded
+2024-02-07T10:17:16.172Z info 	[HTTP] 200: GET /system/editor
+2024-02-07T10:17:16.695Z info 	[IPC] desktopGoBackend/getSystemDiskUsage: /Users/<USER>/Library/Containers/com.docker.docker/Data/vms/0/data
+2024-02-07T10:17:17.423Z info 	[HTTP] 200: GET /system/disk-usage?path=%2FUsers%2F<USER>%2FLibrary%2FContainers%2Fcom.docker.docker%2FData%2Fvms%2F0%2Fdata
+2024-02-07T10:17:17.424Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:17:18.818Z info 	[HTTP] 200: GET /store/categories
+2024-02-07T10:17:21.836Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-07T10:17:21.837Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-07T10:17:21.887Z info 	[HTTP] 200: GET /store/categories
+2024-02-07T10:17:21.977Z info 	[IPC] extensions.extensionsBackendEvents: Unsubscribed after 10678ms, emitted 0 times
+2024-02-07T10:17:24.525Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-07T10:17:26.609Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/users/aimetaverse/ redirecting to v2/users/aimetaverse/
+2024-02-07T10:17:26.610Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:17:27.295Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-07T10:17:28.499Z info 	[HTTP] 200: GET /store
+2024-02-07T10:17:31.727Z info 	[HTTP] 200: GET https://hub.docker.com/v2/users/aimetaverse/
+2024-02-07T10:17:31.764Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:17:33.359Z info 	[IPC] desktopGoBackend/track: eventEngineState { action: 'EngineScreenDisplayed', state: 'EngineStarting' }
+2024-02-07T10:17:33.362Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:20:24.071Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:20:24.074Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:20:24.078Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:20:24.328Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:20:24.330Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:20:24.333Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:20:24.406Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:20:24.408Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:20:24.412Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:20:24.634Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:20:24.636Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:20:24.642Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:20:24.794Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:20:24.796Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:20:24.828Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:20:24.913Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:20:24.915Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:20:24.917Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:21:05.167Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-07T10:21:06.233Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:21:06.236Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:21:06.240Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-07T10:21:06.240Z info 	[INDEX] listening for new images
+2024-02-07T10:21:06.248Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:21:06.251Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:21:06.259Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'running',
+  idle: 'running',
+  state: 'running',
+  mode: 'linux'
+}
+2024-02-07T10:21:06.267Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:21:06.269Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:21:06.413Z info 	[SSE] Received: { state: 'starting', enabled: true }
+2024-02-07T10:21:10.003Z info 	[IPC] desktopGoBackend/track: eventDesktopExtension {
+  searchQuery: undefined,
+  category: undefined,
+  queryResultsCount: undefined,
+  action: 'ExtensionManagedTabVisited',
+  privateMarketplace: false,
+  context: undefined
+}
+2024-02-07T10:21:10.009Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:21:10.124Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-07T10:21:10.127Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-07T10:21:10.128Z info 	[IPC] dockerListImages: undefined
+2024-02-07T10:21:10.129Z info 	[IPC] dockerDf
+2024-02-07T10:21:10.133Z info 	[IPC] extensions.extensionsBackendEvents: Started streaming ([{}])
+2024-02-07T10:21:10.134Z info 	[HTTP] 200: GET /store/categories
+2024-02-07T10:21:10.178Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-07T10:21:10.301Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-07T10:21:13.321Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:21:13.664Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-07T10:21:13.671Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-07T10:21:13.673Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-07T10:21:14.635Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:21:14.637Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:21:15.186Z info 	[HTTP] 200: GET /store
+2024-02-07T10:21:16.731Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-07T10:21:16.748Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-07T10:21:21.669Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:21:21.673Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:21:21.677Z info 	[SSE] Received: {
+  state: 'failed to start',
+  enabled: true,
+  error: '{"type":"*errordef.dockerDesktopError","component":"kubernetes","originalError":{"type":"*fmt.wrapError","error":{"type":"*fmt.wrapError","error":{"type":"*httpstatus.HTTPError","description":"status code not OK but 500: {\\"message\\":\\"checking kubernetes configuration: resetting if PKI: diffing PKI: walking directory /var/lib/kubeadm/pki: walking /var/lib/kubeadm/pki: lstat /var/lib/kubeadm/pki: no such file or directory\\"}\\n{\\"message\\":\\"checking kubernetes configuration: resetting if PKI: diffing PKI: walking directory /var/lib/kubeadm/pki: walking /var/lib/kubeadm/pki: lstat /var/lib/kubeadm/pki: no such file or directory\\"}\\n"},"message":"starting kubernetes"},"message":"starting kubernetes"},"creationTime":1707301281553761000,"creationFile":"common/cmd/com.docker.backend/internal/kubernetes/manager.go","creationLine":111}'
+}
+2024-02-07T10:21:21.679Z info 	[HTTP] 200: POST /engine/restart
+2024-02-07T10:21:22.100Z info 	[HTTP] 200: GET /app/settings
+2024-02-07T10:21:23.454Z info 	[IPC] dockerStreamEvents, since: 1707301270
+2024-02-07T10:21:23.455Z info 	[IPC] engine.dockerStreamEvents: Started streaming ([{"since":1707301270}])
+2024-02-07T10:21:23.456Z info 	[Docker socket] REQ: GET /events 
+2024-02-07T10:21:23.460Z info 	[Docker socket] 200: GET /events?since=1707301270
+2024-02-07T10:21:24.050Z info 	[HTTP] 200: GET /volumes
+2024-02-07T10:21:24.180Z info 	[IPC] dockerListImages: undefined
+2024-02-07T10:21:24.181Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-07T10:21:24.292Z info 	[IPC] dockerStreamEvents, since: 1707301273
+2024-02-07T10:21:24.292Z info 	[IPC] engine.dockerStreamEvents: Started streaming ([{"since":1707301273}])
+2024-02-07T10:21:24.292Z info 	[Docker socket] REQ: GET /events 
+2024-02-07T10:21:24.303Z info 	[Docker socket] 200: GET /events?since=1707301273
+2024-02-07T10:21:24.382Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-07T10:21:24.494Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-07T10:21:26.150Z info 	[IPC] dockerListImages: undefined
+2024-02-07T10:21:29.658Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:21:32.077Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:21:32.384Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:21:35.472Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:25:45.009Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:25:47.924Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:26:00.347Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:26:52.439Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:27:01.802Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:27:02.097Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:27:03.586Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:27:26.265Z info 	open with opts: { name: 'dashboard', path: '/marketplace?tab=build' }
+2024-02-07T10:27:29.091Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:27:29.149Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:27:31.457Z info 	open with opts: { name: 'dashboard' }
+2024-02-07T10:27:31.462Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:27:40.166Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:30:03.000Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:30:47.861Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-07T10:30:47.951Z info 	[IPC] desktopGoBackend/track: eventDesktopExtension {
+  searchQuery: undefined,
+  category: undefined,
+  queryResultsCount: undefined,
+  action: 'ExtensionBuildTabVisited',
+  privateMarketplace: false,
+  context: undefined
+}
+2024-02-07T10:30:47.958Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:31:30.665Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-07T10:31:30.729Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:31:42.985Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:31:46.485Z info 	open with opts: { name: 'settings/update' }
+2024-02-07T10:31:48.087Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:31:56.834Z info 	[IPC] desktopGoBackend/getFeatures:
+2024-02-07T10:32:00.176Z info 	[HTTP] 200: GET /features
+2024-02-07T10:32:00.649Z info 	open with opts: { name: 'settings/extensions' }
+2024-02-07T10:32:00.659Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:32:03.834Z info 	[HTTP] 200: GET /store/categories
+2024-02-07T10:32:08.080Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:32:11.303Z info 	open with opts: { name: 'dashboard', path: '/marketplace?tab=installed' }
+2024-02-07T10:32:11.323Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:32:25.012Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-07T10:32:27.066Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-07T10:32:29.020Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:32:29.786Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-07T10:32:30.748Z info 	[HTTP] 200: GET /store
+2024-02-07T10:32:34.403Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:32:49.815Z info 	[IPC] desktopGoBackend/track: eventEngineStatusIndicator { action: 'actionMenuClicked' }
+2024-02-07T10:32:51.991Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:33:02.024Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:02.056Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:02.422Z info 	[SSE] Received: {
+  updateStatus: 'updateAvailable',
+  currentBuild: '131620',
+  currentVersion: '4.26.1',
+  appcastURL: 'https://desktop.docker.com/mac/main/amd64/appcast.xml',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  targetVersion: '4.27.1',
+  highlights: '- Docker Desktop now includes [Docker Engine v25.0.2](https://docs.docker.com/engine/release-notes/25.0/#2502), [Containerd v1.6.28](https://github.com/containerd/containerd/releases/tag/v1.6.28), [Runc v1.1.12](https://github.com/opencontainers/runc/releases/tag/v1.1.12), that mitigate [multiple security vulnerabilities](https://www.docker.com/blog/docker-security-advisory-multiple-vulnerabilities-in-runc-buildkit-and-moby/).\n' +
+    '- Updating to 4.27.1 from the Software updates sometimes hangs. As a workaround, use the 4.27.1 installer from the Docker [website](https://www.docker.com/products/docker-desktop/).\n' +
+    '- Synchronized File Shares provides an alternative to virtual bind mounts that uses synchronized filesystem caches, improving performance for developers working with large codebases.\n',
+  fallbackURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker.dmg'
+}
+2024-02-07T10:33:02.612Z info 	[IPC] desktopGoBackend/track: eventDesktopExtension {
+  searchQuery: undefined,
+  category: undefined,
+  queryResultsCount: undefined,
+  action: 'ExtensionManagedTabVisited',
+  privateMarketplace: false,
+  context: undefined
+}
+2024-02-07T10:33:02.613Z info 	[HTTP] 200: POST /update/check
+2024-02-07T10:33:02.614Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:33:02.614Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:33:03.935Z info 	[HEARTBEAT] clickUpdateSettings
+2024-02-07T10:33:03.936Z info 	[IPC] desktopGoBackend/getSettings:
+2024-02-07T10:33:04.340Z info 	[HTTP] 200: POST /usage
+2024-02-07T10:33:05.939Z info 	[HTTP] 200: GET /app/settings
+2024-02-07T10:33:05.939Z info 	[HTTP] 200: GET /app/settings
+2024-02-07T10:33:22.819Z info 	[IPC] desktopGoBackend/getSystemDiskUsage: /Users/<USER>/Library/Containers/com.docker.docker/Data/vms/0/data
+2024-02-07T10:33:22.856Z info 	[HTTP] 200: GET /app/settings
+2024-02-07T10:33:23.652Z info 	[HTTP] 200: GET /system/disk-usage?path=%2FUsers%2F<USER>%2FLibrary%2FContainers%2Fcom.docker.docker%2FData%2Fvms%2F0%2Fdata
+2024-02-07T10:33:23.947Z info 	[IPC] desktopGoBackend/track: eventNotificationCenter {
+  action: 'displayed-notification',
+  context: 'foreground',
+  notificationType: 'update',
+  description: 'Docker Desktop 4.27.1 is available.'
+}
+2024-02-07T10:33:24.487Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:33:24.529Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:33:37.911Z info 	[IPC] desktopGoBackend/track: eventNotificationCenter {
+  action: 'action-pressed',
+  context: 'foreground',
+  notificationType: {
+    type: 'update',
+    ephemeral: false,
+    icon: 'download',
+    message: 'Docker Desktop 4.27.1 is available.',
+    actionText: 'Download',
+    action: { action: 'update-available', params: undefined }
+  }
+}
+2024-02-07T10:33:37.913Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:33:37.970Z info 	[IPC] desktopGoBackend/track: eventNotificationCenter {
+  action: 'action-pressed',
+  context: 'foreground',
+  notificationType: {
+    type: 'update',
+    ephemeral: false,
+    icon: 'download',
+    message: 'Docker Desktop 4.27.1 is available.',
+    actionText: 'Download',
+    action: { action: 'update-available', params: undefined }
+  }
+}
+2024-02-07T10:33:37.973Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:33:39.046Z info 	[IPC] desktopGoBackend/downloadUpdates:
+2024-02-07T10:33:39.047Z info 	[IPC] desktopGoBackend/downloadUpdates:
+2024-02-07T10:33:39.370Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:39.372Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:39.373Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  currentBuild: '131620',
+  currentVersion: '4.26.1',
+  appcastURL: 'https://desktop.docker.com/mac/main/amd64/appcast.xml',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  targetVersion: '4.27.1',
+  highlights: '- Docker Desktop now includes [Docker Engine v25.0.2](https://docs.docker.com/engine/release-notes/25.0/#2502), [Containerd v1.6.28](https://github.com/containerd/containerd/releases/tag/v1.6.28), [Runc v1.1.12](https://github.com/opencontainers/runc/releases/tag/v1.1.12), that mitigate [multiple security vulnerabilities](https://www.docker.com/blog/docker-security-advisory-multiple-vulnerabilities-in-runc-buildkit-and-moby/).\n' +
+    '- Updating to 4.27.1 from the Software updates sometimes hangs. As a workaround, use the 4.27.1 installer from the Docker [website](https://www.docker.com/products/docker-desktop/).\n' +
+    '- Synchronized File Shares provides an alternative to virtual bind mounts that uses synchronized filesystem caches, improving performance for developers working with large codebases.\n',
+  fallbackURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker.dmg'
+}
+2024-02-07T10:33:39.380Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:39.381Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:39.383Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  currentBuild: '131620',
+  currentVersion: '4.26.1',
+  appcastURL: 'https://desktop.docker.com/mac/main/amd64/appcast.xml',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  targetVersion: '4.27.1',
+  highlights: '- Docker Desktop now includes [Docker Engine v25.0.2](https://docs.docker.com/engine/release-notes/25.0/#2502), [Containerd v1.6.28](https://github.com/containerd/containerd/releases/tag/v1.6.28), [Runc v1.1.12](https://github.com/opencontainers/runc/releases/tag/v1.1.12), that mitigate [multiple security vulnerabilities](https://www.docker.com/blog/docker-security-advisory-multiple-vulnerabilities-in-runc-buildkit-and-moby/).\n' +
+    '- Updating to 4.27.1 from the Software updates sometimes hangs. As a workaround, use the 4.27.1 installer from the Docker [website](https://www.docker.com/products/docker-desktop/).\n' +
+    '- Synchronized File Shares provides an alternative to virtual bind mounts that uses synchronized filesystem caches, improving performance for developers working with large codebases.\n',
+  fallbackURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker.dmg'
+}
+2024-02-07T10:33:39.384Z info 	[HTTP] 200: POST /update/download
+2024-02-07T10:33:39.384Z info 	[HTTP] 200: POST /update/download
+2024-02-07T10:33:42.321Z info 	[IPC] desktopGoBackend/getSettings:
+2024-02-07T10:33:42.323Z info 	[IPC] desktopGoBackend/track: eventSettingsChange {
+  autoStart: true,
+  exportInsecureDaemon: { value: false, locked: false },
+  analyticsEnabled: { value: true, locked: false },
+  canUseEnhancedContainerIsolation: true,
+  enhancedContainerIsolation: { value: false, locked: false },
+  backupData: true,
+  useVirtualizationFrameworkRosetta: false,
+  useVirtualizationFrameworkVirtioFS: false,
+  useVirtualizationFramework: true,
+  canUseVirtualizationFrameworkRosetta: false,
+  canUseVirtualizationFrameworkVirtioFS: true,
+  canUseVirtualizationFramework: true,
+  mustDisplayVirtualizationFrameworkSwitch: true,
+  disableHardwareAcceleration: false,
+  disableUpdate: { value: true, locked: false },
+  autoDownloadUpdates: { value: true, locked: false },
+  useNightlyBuildUpdates: { value: false, locked: false },
+  useVpnkit: true,
+  openUIOnStartupDisabled: false,
+  updateAvailableTime: 1652862001854,
+  updateInstallTime: 0,
+  useCredentialHelper: true,
+  displayedOnboarding: true,
+  themeSource: 'system',
+  containerTerminal: 'integrated',
+  useContainerdSnapshotter: true,
+  enableWasmShims: true,
+  allowExperimentalFeatures: { value: true, locked: false },
+  allowBetaFeatures: { value: true, locked: false },
+  enableSegmentDebug: false,
+  useResourceSaver: true,
+  autoPauseTimeoutSeconds: 300,
+  autoPauseTimedActivitySeconds: 30,
+  showGeneralNotifications: true,
+  showAnnouncementNotifications: true,
+  showSurveyNotifications: true,
+  showInstallScreen: false,
+  blockDockerLoad: { value: false, locked: false },
+  wslEngineEnabled: { value: false, locked: false },
+  runWinServiceInWslMode: false,
+  wslEnableGrpcfuse: false,
+  wslPreconditionMessage: '',
+  noWindowsContainers: false,
+  displaySwitchWinLinContainers: false,
+  wslInstallMode: 'installLatestWsl',
+  wslUpdateRequired: false,
+  sbomIndexing: { value: true, locked: false },
+  useBackgroundIndexing: { value: true, locked: false }
+}
+2024-02-07T10:33:42.324Z info 	[HTTP] 200: GET /app/settings
+2024-02-07T10:33:42.325Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:33:42.327Z info 	[IPC] desktopGoBackend/track: actionSettingsExperimentalFeatures { allowExperimentalFeatures: { value: true, locked: false } }
+2024-02-07T10:33:42.329Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:33:42.672Z info 	[IPC] desktopGoBackend/updateSettings: {
+  install: {
+    dockerBinInstallPath: 'user',
+    enableDefaultDockerSocket: true,
+    enablePrivilegedPorts: true,
+    enableIntegrityCheck: true,
+    updateHostsFile: true,
+    wslInstallMode: ''
+  },
+  vm: {
+    daemon: {
+      locked: false,
+      value: '{"builder":{"gc":{"defaultKeepStorage":"20GB","enabled":true}},"experimental":false}'
+    },
+    fileSharing: [ [Object], [Object], [Object], [Object], [Object] ],
+    kubernetes: {
+      enabled: [Object],
+      showSystemContainers: [Object],
+      installed: false
+    },
+    network: { socksProxyPort: 0, vpnkitCIDR: [Object], kernelForUDP: true },
+    proxy: {
+      exclude: [Object],
+      http: [Object],
+      https: [Object],
+      mode: [Object],
+      windowsDockerdPort: [Object]
+    },
+    resources: {
+      cpus: [Object],
+      memoryMiB: [Object],
+      diskSizeMiB: [Object],
+      dataFolder: '/Users/<USER>/Library/Containers/com.docker.docker/Data/vms/0/data',
+      wslDataFolder: '.',
+      swapMiB: [Object]
+    }
+  },
+  desktop: {
+    autoStart: true,
+    exportInsecureDaemon: { value: false, locked: false },
+    analyticsEnabled: { value: true, locked: false },
+    canUseEnhancedContainerIsolation: true,
+    enhancedContainerIsolation: { value: false, locked: false },
+    backupData: true,
+    useVirtualizationFrameworkRosetta: false,
+    useVirtualizationFrameworkVirtioFS: false,
+    useVirtualizationFramework: true,
+    canUseVirtualizationFrameworkRosetta: false,
+    canUseVirtualizationFrameworkVirtioFS: true,
+    canUseVirtualizationFramework: true,
+    mustDisplayVirtualizationFrameworkSwitch: true,
+    disableHardwareAcceleration: false,
+    disableUpdate: { value: true, locked: false },
+    autoDownloadUpdates: { value: true, locked: false },
+    useNightlyBuildUpdates: { value: false, locked: false },
+    useVpnkit: true,
+    openUIOnStartupDisabled: false,
+    updateAvailableTime: 1652862001854,
+    updateInstallTime: 0,
+    useCredentialHelper: true,
+    displayedOnboarding: true,
+    themeSource: 'system',
+    containerTerminal: 'integrated',
+    useContainerdSnapshotter: true,
+    enableWasmShims: true,
+    allowExperimentalFeatures: { value: true, locked: false },
+    allowBetaFeatures: { value: true, locked: false },
+    enableSegmentDebug: false,
+    useResourceSaver: true,
+    autoPauseTimeoutSeconds: 300,
+    autoPauseTimedActivitySeconds: 30,
+    showGeneralNotifications: true,
+    showAnnouncementNotifications: true,
+    showSurveyNotifications: true,
+    showInstallScreen: false,
+    blockDockerLoad: { value: false, locked: false },
+    wslEngineEnabled: { value: false, locked: false },
+    runWinServiceInWslMode: false,
+    wslEnableGrpcfuse: false,
+    wslPreconditionMessage: '',
+    noWindowsContainers: false,
+    displaySwitchWinLinContainers: false,
+    wslInstallMode: 'installLatestWsl',
+    wslUpdateRequired: false,
+    sbomIndexing: { value: true, locked: false },
+    useBackgroundIndexing: { value: true, locked: false }
+  },
+  cli: { enableComposeV1Alias: true, useGrpcfuse: false, enableHints: true },
+  vpnkit: {
+    maxConnections: 2000,
+    maxPortIdleTime: 300,
+    MTU: 1500,
+    allowedBindAddresses: '0.0.0.0',
+    transparentProxy: true
+  },
+  extensions: {
+    enabled: { value: true, locked: false },
+    showSystemContainers: true,
+    onlyMarketplaceExtensions: { value: true, locked: false },
+    privateMarketplace: { value: false, locked: false },
+    privateMarketplaceAdminContactURL: { value: '', locked: false }
+  },
+  wslIntegration: { distros: [], enableIntegrationWithDefaultWslDistro: false }
+}
+2024-02-07T10:33:42.676Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:42.678Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:42.679Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 4.939421348585481
+}
+2024-02-07T10:33:42.942Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:42.943Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:42.944Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 6.908153773141813
+}
+2024-02-07T10:33:43.442Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:43.443Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:43.445Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 9.378719952977212
+}
+2024-02-07T10:33:43.974Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:43.976Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:43.977Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 10.366946424911372
+}
+2024-02-07T10:33:44.442Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:44.443Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:44.444Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 12.83751260474677
+}
+2024-02-07T10:33:44.985Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:44.987Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:44.988Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 14.813965548615087
+}
+2024-02-07T10:33:45.441Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:45.442Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:45.444Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 15.81763305917322
+}
+2024-02-07T10:33:45.941Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:45.943Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:45.944Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 18.53525585699216
+}
+2024-02-07T10:33:46.442Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:46.443Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:46.445Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 19.77053894690986
+}
+2024-02-07T10:33:46.942Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:46.944Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:46.945Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 22.225664088121285
+}
+2024-02-07T10:33:47.441Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:47.443Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:47.444Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 25.190343503923764
+}
+2024-02-07T10:33:47.941Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:47.943Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:47.944Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 27.16679644779208
+}
+2024-02-07T10:33:47.972Z info 	[HTTP] 200: POST /app/settings
+2024-02-07T10:33:47.973Z info 	[IPC] desktopGoBackend/getSystemDiskUsage: /Users/<USER>/Library/Containers/com.docker.docker/Data/vms/0/data
+2024-02-07T10:33:47.974Z info 	[HTTP] 200: GET /app/settings
+2024-02-07T10:33:47.977Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:47.978Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:47.981Z info 	[IPC] desktopGoBackend/getFeatures:
+2024-02-07T10:33:48.288Z info 	[HTTP] 200: GET /system/disk-usage?path=%2FUsers%2F<USER>%2FLibrary%2FContainers%2Fcom.docker.docker%2FData%2Fvms%2F0%2Fdata
+2024-02-07T10:33:48.290Z info 	[HTTP] 200: GET /features
+2024-02-07T10:33:48.580Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:48.581Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:48.788Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 28.649136155693324
+}
+2024-02-07T10:33:48.942Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:48.943Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:48.945Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 30.13147586359456
+}
+2024-02-07T10:33:49.297Z info 	[SSE] Received: { state: 'installing' }
+2024-02-07T10:33:49.519Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:49.521Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:49.522Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 33.09615527939704
+}
+2024-02-07T10:33:49.942Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:49.944Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:49.945Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 34.57849498729828
+}
+2024-02-07T10:33:50.551Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:50.552Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:50.553Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 36.06083469519951
+}
+2024-02-07T10:33:50.942Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:50.944Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:50.945Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 37.04906116713367
+}
+2024-02-07T10:33:51.442Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:51.444Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:51.446Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 39.02551411100199
+}
+2024-02-07T10:33:51.993Z info 	[HTTP] 200: GET /store
+2024-02-07T10:33:52.018Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:52.019Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:52.021Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 41.49608029083739
+}
+2024-02-07T10:33:52.029Z info 	[HTTP] 200: GET /store
+2024-02-07T10:33:52.054Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:52.055Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:52.442Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:52.443Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:52.444Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 42.97841999873863
+}
+2024-02-07T10:33:52.941Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:52.942Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:52.943Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 44.95487294260695
+}
+2024-02-07T10:33:53.441Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:53.443Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:53.444Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 46.43721265050819
+}
+2024-02-07T10:33:53.941Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:53.942Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:53.944Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 48.4136655943765
+}
+2024-02-07T10:33:54.442Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:54.443Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:54.444Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 50.39011853824482
+}
+2024-02-07T10:33:54.941Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:54.942Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:54.944Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 52.86068471808022
+}
+2024-02-07T10:33:55.441Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:55.442Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:55.443Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 55.331250897915616
+}
+2024-02-07T10:33:56.068Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:56.069Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:56.071Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 55.84080517250667
+}
+2024-02-07T10:33:56.886Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:56.888Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:56.889Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 57.323144880407916
+}
+2024-02-07T10:33:56.945Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:56.946Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:56.949Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 58.79004354968518
+}
+2024-02-07T10:33:57.636Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:57.637Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:57.638Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 58.79004354968518
+}
+2024-02-07T10:33:58.060Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:58.061Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:58.062Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 60.766496493553504
+}
+2024-02-07T10:33:58.443Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:33:58.445Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:33:58.446Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 63.2370626733889
+}
+2024-02-07T10:34:00.088Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:00.089Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:00.091Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 64.22528914532306
+}
+2024-02-07T10:34:00.955Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:00.956Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:00.958Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 65.70762885322429
+}
+2024-02-07T10:34:01.443Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:01.444Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:01.445Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 68.67230826902677
+}
+2024-02-07T10:34:02.031Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:02.032Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:02.034Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 68.68774930765075
+}
+2024-02-07T10:34:02.692Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:02.694Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:02.695Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 71.14287444886217
+}
+2024-02-07T10:34:03.446Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:03.448Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:03.449Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 72.6252141567634
+}
+2024-02-07T10:34:03.524Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:03.526Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:03.527Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 74.10755386466465
+}
+2024-02-07T10:34:03.954Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:03.955Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:03.958Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 75.5898935725659
+}
+2024-02-07T10:34:04.745Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:04.746Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:04.749Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 77.56634651643421
+}
+2024-02-07T10:34:04.949Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:04.950Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:04.952Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 78.55457298836836
+}
+2024-02-07T10:34:05.651Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:05.653Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:05.654Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 78.57001402699234
+}
+2024-02-07T10:34:05.953Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:05.955Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:05.956Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 79.69720984654224
+}
+2024-02-07T10:34:06.442Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:06.443Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:06.444Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 79.90194874502544
+}
+2024-02-07T10:34:06.941Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:06.943Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:06.944Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 80.39501115347386
+}
+2024-02-07T10:34:07.442Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:07.443Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:07.444Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 80.92863267680394
+}
+2024-02-07T10:34:07.942Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:07.943Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:07.945Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 81.26833552653132
+}
+2024-02-07T10:34:08.441Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:08.443Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:08.444Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 81.7006846080025
+}
+2024-02-07T10:34:08.941Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:08.943Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:08.944Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 82.78927783099248
+}
+2024-02-07T10:34:09.480Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:09.481Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:09.483Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 83.88945183295043
+}
+2024-02-07T10:34:09.942Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:09.944Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:09.945Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 85.36793128119568
+}
+2024-02-07T10:34:10.442Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:10.443Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:10.445Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 86.42736427615438
+}
+2024-02-07T10:34:10.988Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:10.989Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:10.991Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 88.81686500321393
+}
+2024-02-07T10:34:11.442Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:11.443Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:11.445Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 90.4420343183869
+}
+2024-02-07T10:34:11.941Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:11.943Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:11.944Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 91.32603377960926
+}
+2024-02-07T10:34:12.442Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:12.443Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:12.445Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 92.89715945959833
+}
+2024-02-07T10:34:12.942Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:12.943Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:12.945Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 94.87429850430395
+}
+2024-02-07T10:34:13.442Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:13.443Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:13.445Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 96.97041949750805
+}
+2024-02-07T10:34:13.941Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:13.943Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:13.945Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 98.29062829985759
+}
+2024-02-07T10:34:14.441Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:14.443Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:14.445Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 99.31745736835167
+}
+2024-02-07T10:34:15.102Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:15.104Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:15.106Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 100
+}
+2024-02-07T10:34:15.442Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:15.443Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:15.445Z info 	[SSE] Received: {
+  updateStatus: 'downloadingInBackground',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta',
+  progress: 100
+}
+2024-02-07T10:34:15.715Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:15.716Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:15.721Z info 	[SSE] Received: {
+  updateStatus: 'backgroundDownloadComplete',
+  currentBuild: '131620',
+  currentVersion: '4.26.1',
+  appcastURL: 'https://desktop.docker.com/mac/main/amd64/appcast.xml',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  targetVersion: '4.27.1',
+  highlights: '- Docker Desktop now includes [Docker Engine v25.0.2](https://docs.docker.com/engine/release-notes/25.0/#2502), [Containerd v1.6.28](https://github.com/containerd/containerd/releases/tag/v1.6.28), [Runc v1.1.12](https://github.com/opencontainers/runc/releases/tag/v1.1.12), that mitigate [multiple security vulnerabilities](https://www.docker.com/blog/docker-security-advisory-multiple-vulnerabilities-in-runc-buildkit-and-moby/).\n' +
+    '- Updating to 4.27.1 from the Software updates sometimes hangs. As a workaround, use the 4.27.1 installer from the Docker [website](https://www.docker.com/products/docker-desktop/).\n' +
+    '- Synchronized File Shares provides an alternative to virtual bind mounts that uses synchronized filesystem caches, improving performance for developers working with large codebases.\n',
+  fallbackURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker.dmg',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta'
+}
+2024-02-07T10:34:15.724Z info 	[HTTP] 200: GET /app/settings
+2024-02-07T10:34:15.728Z info 	[HTTP] 200: GET /app/settings
+2024-02-07T10:34:16.085Z info 	[IPC] desktopGoBackend/track: eventNotificationCenter {
+  action: 'displayed-notification',
+  context: 'foreground',
+  notificationType: 'update',
+  description: 'Docker Desktop 4.27.1 is ready to install. Restart Docker Desktop to install.'
+}
+2024-02-07T10:34:16.086Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:34:18.643Z info 	[HEARTBEAT] applyUpdatesSettings
+2024-02-07T10:34:18.646Z info 	[IPC] desktopGoBackend/applyUpdates:
+2024-02-07T10:34:18.647Z info 	[HTTP] 200: POST /usage
+2024-02-07T10:34:20.113Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:34:20.115Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:34:20.118Z info 	[SSE] Received: {
+  updateStatus: 'installing',
+  currentBuild: '131620',
+  currentVersion: '4.26.1',
+  appcastURL: 'https://desktop.docker.com/mac/main/amd64/appcast.xml',
+  targetURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker-131620.delta',
+  targetBuild: '136059',
+  targetVersion: '4.27.1',
+  highlights: '- Docker Desktop now includes [Docker Engine v25.0.2](https://docs.docker.com/engine/release-notes/25.0/#2502), [Containerd v1.6.28](https://github.com/containerd/containerd/releases/tag/v1.6.28), [Runc v1.1.12](https://github.com/opencontainers/runc/releases/tag/v1.1.12), that mitigate [multiple security vulnerabilities](https://www.docker.com/blog/docker-security-advisory-multiple-vulnerabilities-in-runc-buildkit-and-moby/).\n' +
+    '- Updating to 4.27.1 from the Software updates sometimes hangs. As a workaround, use the 4.27.1 installer from the Docker [website](https://www.docker.com/products/docker-desktop/).\n' +
+    '- Synchronized File Shares provides an alternative to virtual bind mounts that uses synchronized filesystem caches, improving performance for developers working with large codebases.\n',
+  fallbackURL: 'https://desktop.docker.com/mac/main/amd64/136059/Docker.dmg',
+  downloadedFilePath: '/var/folders/tf/wtmydcx97nl158zdk9xm9pdm0000gn/T/DockerDesktopUpdates/Docker-131620 (136059).delta'
+}
+2024-02-07T10:34:20.559Z info 	[HTTP] 200: GET /app/settings
+2024-02-07T10:34:20.562Z info 	[HTTP] 200: GET /app/settings
+2024-02-07T10:34:21.440Z info 	[IPC] desktopGoBackend/track: eventNotificationCenter {
+  action: 'displayed-notification',
+  context: 'foreground',
+  notificationType: 'action-status',
+  description: 'Installing update'
+}
+2024-02-07T10:34:21.441Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:34:33.713Z info 	[IPC] desktopGoBackend/track: eventDesktopExtension {
+  searchQuery: undefined,
+  category: undefined,
+  queryResultsCount: undefined,
+  action: 'SettingsOpened',
+  privateMarketplace: false,
+  context: undefined
+}
+2024-02-07T10:34:33.717Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:34:39.165Z info 	[SSE] Received: { state: 'installed' }
+2024-02-07T10:34:59.416Z info 	[IPC] build.buildBackendGetBuildersStream: Started streaming ([{}])
+2024-02-07T10:34:59.418Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:34:59.418Z info 	[IPC] desktopGoBackend/track: eventBuildDashboard { action: 'show', screen: 'buildersSettings' }
+2024-02-07T10:34:59.420Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:35:00.185Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:35:48.164Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:35:50.213Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:35:54.339Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:36:31.944Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:36:32.158Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:36:37.481Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:36:41.265Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:36:41.623Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:36:41.990Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:36:58.387Z info 	[IPC] desktopGoBackend/track: eventBuildDashboard { action: 'makeDefault', screen: 'buildersSettings', id: 'default' }
+2024-02-07T10:36:58.390Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:36:58.398Z info 	[HTTP] 200: POST /builders/default/makedefault
+2024-02-07T10:37:21.478Z info 	[IPC] desktopGoBackend/getFeatures:
+2024-02-07T10:37:21.481Z info 	[HTTP] 200: GET /features
+2024-02-07T10:37:31.610Z info 	[IPC] desktopGoBackend/track: eventBuildDashboard { action: 'makeDefault', screen: 'buildersSettings', id: 'default' }
+2024-02-07T10:37:31.613Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:37:32.294Z info 	[HTTP] 200: POST /builders/default/makedefault
+2024-02-07T10:37:41.890Z info 	[IPC] desktopGoBackend/track: eventBuildDashboard { action: 'expand', screen: 'buildersSettings', id: 'default' }
+2024-02-07T10:37:41.891Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:38:04.671Z info 	[IPC] desktopGoBackend/track: eventBuildDashboard { action: 'expand', screen: 'buildersSettings', id: 'desktop-linux' }
+2024-02-07T10:38:04.672Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:38:16.593Z info 	[IPC] desktopGoBackend/track: eventBuildDashboard {
+  action: 'makeDefault',
+  screen: 'buildersSettings',
+  id: 'desktop-linux'
+}
+2024-02-07T10:38:16.594Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:38:17.020Z info 	[HTTP] 200: POST /builders/desktop-linux/makedefault
+2024-02-07T10:38:18.426Z info 	[IPC] desktopGoBackend/track: eventBuildDashboard {
+  action: 'makeDefault',
+  screen: 'buildersSettings',
+  id: 'desktop-linux'
+}
+2024-02-07T10:38:18.427Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:38:18.669Z info 	[HTTP] 200: POST /builders/desktop-linux/makedefault
+2024-02-07T10:38:25.721Z info 	[IPC] build.buildBackendGetBuildersStream: Unsubscribed after 206305ms, emitted 12 times
+2024-02-07T10:39:19.365Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-07T10:39:19.367Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-07T10:39:19.378Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:39:19.683Z info 	[HTTP] 200: GET /store/categories
+2024-02-07T10:39:19.745Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-07T10:39:20.517Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:39:23.351Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-07T10:39:23.435Z info 	[HTTP] 200: GET /store
+2024-02-07T10:39:25.365Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:39:25.366Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-07T10:40:42.950Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:40:49.217Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:41:02.431Z info 	[HTTP] Error on https://hub.docker.com/v2/user/orgs?page_size=100: Request failed with status code 500
+2024-02-07T10:41:02.432Z error 	!!! get https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:41:02.432Z error 	Error response from server: 500
+2024-02-07T10:41:21.934Z info 	[IPC] desktopGoBackend/track: eventDesktopExtension {
+  searchQuery: undefined,
+  category: undefined,
+  queryResultsCount: undefined,
+  action: 'SettingsOpened',
+  privateMarketplace: false,
+  context: undefined
+}
+2024-02-07T10:41:25.190Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:41:47.833Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:42:00.381Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:42:01.074Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:42:16.691Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:42:19.041Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:42:33.273Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:42:33.396Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:42:34.250Z info 	[SSE] Received: { type: 'update_available' }
+2024-02-07T10:42:34.250Z info 	[SSE] Received: { type: 'extension_store_reloaded' }
+2024-02-07T10:42:35.800Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-07T10:42:35.801Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-07T10:42:35.805Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-07T10:42:36.056Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-07T10:42:36.057Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-07T10:42:36.060Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-07T10:42:48.168Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-07T10:42:48.182Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-07T10:42:49.057Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:42:49.069Z info 	[HTTP] 200: GET /store
+2024-02-07T10:42:49.697Z info 	[HTTP] 200: GET /store
+2024-02-07T10:42:50.483Z info 	[HTTP] 200: GET /store
+2024-02-07T10:42:50.626Z info 	[HTTP] 200: GET /store
+2024-02-07T10:42:58.997Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:43:00.665Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:43:03.260Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-07T10:43:03.505Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-07T10:43:19.212Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:43:21.168Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:43:24.101Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:43:54.873Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:43:55.060Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:43:59.886Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:44:24.095Z info 	[HTTP] 200: POST /install/apply
+2024-02-07T10:44:24.101Z info 	[SSE] /install/events emitted: true
+2024-02-07T10:44:24.544Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:44:24.867Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:45:01.502Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:45:01.601Z info 	[HTTP] 200: GET /store/categories
+2024-02-07T10:45:02.592Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:45:04.105Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:45:07.327Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:45:12.296Z info 	open with opts: { name: 'dashboard', path: '/marketplace?tab=installed' }
+2024-02-07T10:45:12.671Z info 	[HTTP] 200: POST /analytics/track
+2024-02-07T10:45:15.656Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:45:16.606Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:45:18.871Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:45:29.500Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:45:29.666Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:45:37.670Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:45:37.672Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:45:39.024Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:45:52.990Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:45:53.111Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:45:57.094Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:46:01.581Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:46:01.897Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:46:02.470Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:47:14.330Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:47:15.513Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:47:17.098Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:47:21.498Z info 	[IPC] desktopGoBackend/getFeatures:
+2024-02-07T10:47:23.145Z info 	[HTTP] 200: GET /features
+2024-02-07T10:50:33.734Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-07T10:50:36.656Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-07T10:50:42.202Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:51:20.207Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-07T10:51:33.236Z info 	[HTTP] 200: GET /store/categories
+2024-02-07T10:51:53.843Z info 	[HTTP] Error on https://hub.docker.com/v2/user/orgs?page_size=100: Request failed with status code 500
+2024-02-07T10:51:53.845Z error 	!!! get https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:51:53.845Z error 	Error response from server: 500
+2024-02-07T10:52:00.849Z info 	[HTTP] 200: GET /store
+2024-02-07T10:52:02.227Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-07T10:52:02.765Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:52:03.947Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-07T10:52:09.590Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:52:11.859Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:52:28.080Z info 	[SSE] Received: { type: 'update_available' }
+2024-02-07T10:52:28.081Z info 	[SSE] Received: { type: 'extension_store_reloaded' }
+2024-02-07T10:52:28.083Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-07T10:52:28.084Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-07T10:52:28.354Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-07T10:52:28.354Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-07T10:52:28.367Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-07T10:52:28.372Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-07T10:52:30.786Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-07T10:52:31.328Z info 	[HTTP] 200: GET /store
+2024-02-07T10:52:31.351Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-07T10:52:31.366Z info 	[HTTP] 200: GET /store
+2024-02-07T10:52:32.194Z info 	[HTTP] 200: GET /store
+2024-02-07T10:52:36.045Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 1 }
+2024-02-07T10:52:37.185Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-07T10:52:37.900Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-07T10:52:37.960Z info 	[HTTP] 200: GET /store
+2024-02-07T10:52:37.987Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-07T10:53:03.991Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:53:04.211Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:53:07.306Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-07T10:57:15.308Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-07T10:57:29.824Z info 	[IPC] desktopGoBackend/getFeatures:
+2024-02-07T10:57:44.283Z info 	[HTTP] 200: GET /features
+2024-02-07T10:58:01.717Z info 	[HTTP] 200: GET /store/categories
+2024-02-07T10:58:05.248Z info 	[HTTP] Error on https://hub.docker.com/v2/user/orgs?page_size=100: Request failed with status code 500
+2024-02-07T10:58:05.248Z error 	!!! get https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-07T10:58:05.248Z error 	Error response from server: 500
+2024-02-07T10:58:23.375Z info 	[HTTP] 200: GET /store/suggestions

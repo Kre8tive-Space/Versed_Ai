@@ -1,0 +1,844 @@
+2024-02-02T02:03:41.790Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:03:41.877Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:03:41.883Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-02T02:03:42.036Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:03:42.037Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:03:42.040Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-02T02:03:42.047Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:03:42.048Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:03:42.050Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-02T02:03:42.058Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:03:42.059Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:03:42.061Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-02T02:03:42.073Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:03:42.074Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:03:42.076Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-02T02:03:42.084Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:03:42.085Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:03:42.087Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-02T02:03:51.226Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-02T02:03:51.484Z info 	[HTTP] 200: GET /store/categories
+2024-02-02T02:03:51.585Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-02T02:03:52.703Z info 	[HTTP] 200: GET /store
+2024-02-02T02:03:53.506Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-02T02:05:43.393Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-02T02:05:44.143Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:05:44.144Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:05:44.145Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-02T02:05:44.146Z info 	[INDEX] listening for new images
+2024-02-02T02:05:44.152Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:05:44.154Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:05:44.155Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'running',
+  idle: 'running',
+  state: 'running',
+  mode: 'linux'
+}
+2024-02-02T02:05:44.159Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:05:44.160Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:05:44.163Z info 	[SSE] Received: { state: 'starting', enabled: true }
+2024-02-02T02:05:44.326Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:05:44.945Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-02T02:05:44.947Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:05:44.948Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:05:44.949Z info 	[HTTP] 200: GET /store/categories
+2024-02-02T02:05:45.004Z info 	[IPC] extensions.extensionsBackendEvents: Started streaming ([{}])
+2024-02-02T02:05:45.005Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-02T02:05:45.005Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-02T02:05:45.922Z info 	[IPC] desktopGoBackend/track: eventDesktopExtension {
+  searchQuery: undefined,
+  category: undefined,
+  queryResultsCount: undefined,
+  action: 'ExtensionsOpened',
+  privateMarketplace: false,
+  context: 'marketplace'
+}
+2024-02-02T02:05:45.929Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:05:46.125Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-02T02:05:46.389Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-02T02:05:46.389Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-02T02:05:46.445Z info 	[HTTP] 200: GET /store
+2024-02-02T02:05:46.468Z info 	[HTTP] 200: GET /store
+2024-02-02T02:05:46.485Z info 	[HTTP] 200: GET /store
+2024-02-02T02:05:46.496Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:05:46.497Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:05:47.328Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-02T02:05:47.336Z info 	[HTTP] 200: GET /volumes
+2024-02-02T02:05:47.338Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:05:47.344Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-02T02:05:47.421Z info 	[IPC] dockerStreamEvents, since: 1706839545
+2024-02-02T02:05:47.422Z info 	[IPC] engine.dockerStreamEvents: Started streaming ([{"since":1706839545}])
+2024-02-02T02:05:47.423Z info 	[Docker socket] REQ: GET /events 
+2024-02-02T02:05:47.429Z info 	[Docker socket] 200: GET /events?since=1706839545
+2024-02-02T02:05:47.766Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-02T02:05:48.045Z info 	[IPC] dockerStreamEvents, since: 1706839544
+2024-02-02T02:05:48.046Z info 	[IPC] engine.dockerStreamEvents: Started streaming ([{"since":1706839544}])
+2024-02-02T02:05:48.046Z info 	[Docker socket] REQ: GET /events 
+2024-02-02T02:05:48.048Z info 	[Docker socket] 200: GET /events?since=1706839544
+2024-02-02T02:05:59.501Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:05:59.505Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:06:01.823Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:06:01.835Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:06:01.939Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:06:01.940Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:06:01.942Z info 	[SSE] Received: {
+  state: 'failed to start',
+  enabled: true,
+  error: '{"type":"*errordef.dockerDesktopError","component":"kubernetes","originalError":{"type":"*fmt.wrapError","error":{"type":"*fmt.wrapError","error":{"type":"*httpstatus.HTTPError","description":"status code not OK but 500: {\\"message\\":\\"checking kubernetes configuration: resetting if PKI: diffing PKI: walking directory /var/lib/kubeadm/pki: walking /var/lib/kubeadm/pki: lstat /var/lib/kubeadm/pki: no such file or directory\\"}\\n{\\"message\\":\\"checking kubernetes configuration: resetting if PKI: diffing PKI: walking directory /var/lib/kubeadm/pki: walking /var/lib/kubeadm/pki: lstat /var/lib/kubeadm/pki: no such file or directory\\"}\\n"},"message":"starting kubernetes"},"message":"starting kubernetes"},"creationTime":1706839561934194000,"creationFile":"common/cmd/com.docker.backend/internal/kubernetes/manager.go","creationLine":111}'
+}
+2024-02-02T02:06:27.835Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:06:27.836Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:07:38.991Z info 	[IPC] desktopGoBackend/getFeatures:
+2024-02-02T02:07:38.994Z info 	[HTTP] 200: GET /features
+2024-02-02T02:12:23.794Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-02T02:12:23.795Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-02T02:12:23.836Z info 	[HTTP] 200: GET /store/categories
+2024-02-02T02:12:24.273Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-02T02:12:24.331Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-02T02:12:24.413Z info 	[HTTP] 200: GET /store
+2024-02-02T02:12:24.998Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-02T02:12:25.579Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-02T02:12:30.338Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:12:33.646Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:12:33.938Z info 	[HTTP] 200: POST /registry/open-login
+2024-02-02T02:12:46.304Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:12:47.595Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:12:48.305Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:13:05.964Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:13:05.967Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:13:05.976Z info 	[SSE] Received: { type: 'CodeReceived', restricted: false }
+2024-02-02T02:13:06.091Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:13:06.123Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:13:06.468Z info 	[IPC] desktopGoBackend/track: eventNotificationCenter {
+  action: 'displayed-notification',
+  context: 'foreground',
+  notificationType: 'action-status',
+  description: 'Processing login data...'
+}
+2024-02-02T02:13:06.475Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:13:06.476Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:13:06.478Z info 	[SSE] Received: {
+  type: 'UserdataReceived',
+  username: '<USER>',
+  email: '<EMAIL>',
+  restricted: false
+}
+2024-02-02T02:13:06.479Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:13:07.116Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:13:07.117Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:13:07.119Z info 	[SSE] Received: {
+  type: 'LoginSuccess',
+  username: '<USER>',
+  email: '<EMAIL>',
+  entitlements: { isProUser: false, planName: 'personal' },
+  accessToken: '[REDACTED]'
+}
+2024-02-02T02:13:07.601Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/users/aimetaverse/ redirecting to v2/users/aimetaverse/
+2024-02-02T02:13:07.603Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-02T02:13:07.604Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:13:07.606Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:13:07.993Z info 	[HTTP] 200: GET https://hub.docker.com/v2/users/aimetaverse/
+2024-02-02T02:13:08.633Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-02T02:13:08.798Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:13:08.800Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:13:09.010Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-02T02:13:26.276Z info 	[IPC] desktopGoBackend/track: eventDesktopExtension {
+  searchQuery: '',
+  category: '',
+  queryResultsCount: undefined,
+  action: 'Install',
+  privateMarketplace: false,
+  name: 'Mindsdb',
+  image: 'ajeetraina/mindsdb-docker-extension',
+  tag: '1.0.4',
+  type: 'not_reviewed',
+  context: 'marketplace'
+}
+2024-02-02T02:13:26.296Z info 	[IPC] extensions.extensionsBackendInstall: Started streaming ([{"name":"ajeetraina/mindsdb-docker-extension:1.0.4"}])
+2024-02-02T02:13:26.298Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:13:26.715Z info 	[SSE] Received: {
+  extensionId: 'ajeetraina/mindsdb-docker-extension',
+  type: 'installInitiated'
+}
+2024-02-02T02:13:26.754Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-02T02:13:26.756Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-02T02:13:26.783Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-02T02:13:26.961Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-02T02:13:27.003Z info 	[HTTP] 200: GET /store
+2024-02-02T02:13:29.662Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-02T02:13:30.019Z info 	[HTTP] 200: GET /store
+2024-02-02T02:13:30.049Z info 	[HTTP] 200: GET /store
+2024-02-02T02:13:30.081Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:13:30.082Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:13:31.839Z info 	[IPC] desktopGoBackend/track: eventDesktopExtension {
+  searchQuery: '',
+  category: undefined,
+  queryResultsCount: undefined,
+  action: 'ExtensionDetailsOpened',
+  privateMarketplace: false,
+  name: 'Mindsdb',
+  image: 'ajeetraina/mindsdb-docker-extension',
+  tag: '1.0.4',
+  type: 'not_reviewed',
+  context: 'marketplace'
+}
+2024-02-02T02:13:31.841Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:13:32.855Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:13:32.859Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:13:33.862Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-02T02:13:36.791Z info 	[IPC] desktopGoBackend/track: eventNotificationCenter {
+  action: 'displayed-notification',
+  context: 'foreground',
+  notificationType: 'action-status',
+  description: 'Extension is being installed.'
+}
+2024-02-02T02:13:36.792Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:13:46.618Z info 	[INDEX] new image to index sha256:3bbc7ec578e75d95780797d57703f9e6e676b86acb7cefec85ccd0cc9ea75c57
+2024-02-02T02:13:46.621Z info 	[INDEX] starting index of sha256:3bbc7ec578e75d95780797d57703f9e6e676b86acb7cefec85ccd0cc9ea75c57
+2024-02-02T02:13:46.658Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:13:48.294Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:13:48.295Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:13:51.232Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:13:51.249Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:13:51.293Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:13:51.295Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:13:52.339Z info 	[HTTP] 200: POST /install/apply
+2024-02-02T02:13:52.340Z info 	[SSE] /install/events emitted: true
+2024-02-02T02:13:52.348Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:13:52.349Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:13:52.373Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:13:52.375Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:13:52.588Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:13:52.590Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:13:52.846Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:13:52.850Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:13:58.322Z info 	[SSE] /install/events emitted: false
+2024-02-02T02:13:58.326Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:13:58.327Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:14:00.226Z info 	[IPC] desktopGoBackend/track: eventDesktopExtension {
+  searchQuery: '',
+  category: '',
+  queryResultsCount: undefined,
+  action: 'Install',
+  privateMarketplace: false,
+  name: 'Checkmarx',
+  image: 'checkmarx/imagex',
+  tag: '0.0.27',
+  type: 'not_reviewed',
+  context: 'marketplace'
+}
+2024-02-02T02:14:00.228Z info 	[IPC] extensions.extensionsBackendInstall: Started streaming ([{"name":"checkmarx/imagex:0.0.27"}])
+2024-02-02T02:14:00.228Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:14:00.368Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:14:00.370Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:14:00.966Z info 	[SSE] Received: { extensionId: 'checkmarx/imagex', type: 'installInitiated' }
+2024-02-02T02:14:01.221Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-02T02:14:01.233Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-02T02:14:01.242Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:14:01.316Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:14:01.321Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:14:01.372Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-02T02:14:01.392Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:14:01.395Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:14:01.467Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-02T02:14:01.480Z info 	[HTTP] 200: GET /store
+2024-02-02T02:14:01.588Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:14:01.625Z info 	[IPC] desktopGoBackend/track: eventNotificationCenter {
+  action: 'displayed-notification',
+  context: 'foreground',
+  notificationType: 'action-status',
+  description: 'Extension is being installed.'
+}
+2024-02-02T02:14:01.626Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:14:03.940Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-02T02:14:04.107Z info 	[HTTP] 200: GET /store
+2024-02-02T02:14:04.216Z info 	[HTTP] 200: GET /store
+2024-02-02T02:14:04.236Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:14:04.237Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:14:22.841Z info 	[IPC] desktopGoBackend/track: eventDesktopExtension {
+  searchQuery: '',
+  category: '',
+  queryResultsCount: undefined,
+  action: 'Install',
+  privateMarketplace: false,
+  name: 'DockasaurusRX',
+  image: 'dockasaurusrx/dockasaurusrx',
+  tag: '1.0.2',
+  type: 'not_reviewed',
+  context: 'marketplace'
+}
+2024-02-02T02:14:22.853Z info 	[IPC] extensions.extensionsBackendInstall: Started streaming ([{"name":"dockasaurusrx/dockasaurusrx:1.0.2"}])
+2024-02-02T02:14:22.866Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:14:23.558Z info 	[SSE] Received: {
+  extensionId: 'dockasaurusrx/dockasaurusrx',
+  type: 'installInitiated'
+}
+2024-02-02T02:14:23.675Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-02T02:14:23.726Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-02T02:14:23.784Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-02T02:14:23.793Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-02T02:14:23.899Z info 	[HTTP] 200: GET /store
+2024-02-02T02:14:23.978Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:14:23.980Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:14:24.123Z info 	[IPC] desktopGoBackend/track: eventNotificationCenter {
+  action: 'displayed-notification',
+  context: 'foreground',
+  notificationType: 'action-status',
+  description: 'Extension is being installed.'
+}
+2024-02-02T02:14:24.124Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:14:25.274Z info 	[INDEX] finished indexing sha256:3bbc7ec578e75d95780797d57703f9e6e676b86acb7cefec85ccd0cc9ea75c57
+2024-02-02T02:14:26.327Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-02T02:14:26.708Z info 	[IPC] desktopGoBackend/track: eventDesktopExtension {
+  searchQuery: '',
+  category: '',
+  queryResultsCount: undefined,
+  action: 'Install',
+  privateMarketplace: false,
+  name: 'PHP Dumper',
+  image: 'artifision/php-dumper-docker-extension',
+  tag: '1.0.0',
+  type: 'not_reviewed',
+  context: 'marketplace'
+}
+2024-02-02T02:14:26.709Z info 	[IPC] extensions.extensionsBackendInstall: Started streaming ([{"name":"artifision/php-dumper-docker-extension:1.0.0"}])
+2024-02-02T02:14:26.710Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:14:26.797Z info 	[HTTP] 200: GET /store
+2024-02-02T02:14:26.818Z info 	[HTTP] 200: GET /store
+2024-02-02T02:14:26.841Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:14:26.842Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:14:27.058Z info 	[SSE] Received: {
+  extensionId: 'artifision/php-dumper-docker-extension',
+  type: 'installInitiated'
+}
+2024-02-02T02:14:27.277Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-02T02:14:27.284Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-02T02:14:27.858Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-02T02:14:27.974Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:14:28.005Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:14:28.011Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-02T02:14:28.231Z info 	[IPC] desktopGoBackend/track: eventNotificationCenter {
+  action: 'displayed-notification',
+  context: 'foreground',
+  notificationType: 'action-status',
+  description: 'Extension is being installed.'
+}
+2024-02-02T02:14:28.260Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:14:28.489Z info 	[HTTP] 200: GET /store
+2024-02-02T02:14:31.121Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-02T02:14:31.553Z info 	[HTTP] 200: GET /store
+2024-02-02T02:14:31.604Z info 	[HTTP] 200: GET /store
+2024-02-02T02:14:31.630Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:14:31.633Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:14:33.856Z info 	[IPC] desktopGoBackend/track: eventDesktopExtension {
+  searchQuery: '',
+  category: undefined,
+  queryResultsCount: undefined,
+  action: 'ExtensionDetailsOpened',
+  privateMarketplace: false,
+  name: 'NGINX Development Center',
+  image: 'nginx/docker-extension',
+  tag: '0.0.3',
+  type: 'not_reviewed',
+  context: 'marketplace'
+}
+2024-02-02T02:14:33.858Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:14:41.875Z info 	[IPC] desktopGoBackend/track: eventDesktopExtension {
+  searchQuery: '',
+  category: undefined,
+  queryResultsCount: undefined,
+  action: 'ExtensionOpenClicked',
+  privateMarketplace: false,
+  name: 'NGINX Development Center',
+  image: 'nginx/docker-extension',
+  tag: '0.0.3',
+  type: 'not_reviewed',
+  context: 'marketplace'
+}
+2024-02-02T02:14:41.880Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:14:42.917Z info 	[IPC] desktopGoBackend/track: eventDesktopExtension {
+  searchQuery: undefined,
+  category: undefined,
+  queryResultsCount: undefined,
+  action: 'TabOpened',
+  privateMarketplace: false,
+  name: 'NGINX Development Center',
+  image: 'nginx/docker-extension',
+  tag: '0.0.3',
+  type: 'not_reviewed',
+  context: undefined
+}
+2024-02-02T02:14:42.949Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:14:44.158Z info 	[IPC] dockerListContainers: undefined
+2024-02-02T02:14:44.657Z info 	[IPC] extensionExecDockerCmd (nginx_docker-extension): exec, -i,53cf0c57bb6d1a87e677ff5b9909da323064a5bc3d350393b60058c63e4330a6,/bin/sh -c "nginx -v"
+2024-02-02T02:14:44.663Z info 	[IPC] extensionExecDockerCmd (nginx_docker-extension): exec, -i,5afa8b3a42ee8f89157feb883d87a4647a745411a52f2d8adb17dae774f62d22,/bin/sh -c "nginx -v"
+2024-02-02T02:14:46.035Z info 	[IPC] extensionExecDockerCmd (nginx_docker-extension): Success
+2024-02-02T02:14:46.042Z info 	[IPC] extensionExecDockerCmd (nginx_docker-extension): Success
+2024-02-02T02:14:49.466Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-02T02:14:49.773Z info 	[IPC] onExtensionClose: nginx_docker-extension
+2024-02-02T02:14:49.817Z info 	[HEARTBEAT] devenvironmentsViewOpen
+2024-02-02T02:14:49.825Z info 	[IPC] dev-envs-backend/devEnvironmentsPreRequisites: []
+2024-02-02T02:14:49.826Z info 	[IPC] dev-envs-backend/getDevEnvironments: []
+2024-02-02T02:14:49.827Z info 	[SSE] Opening devEnvs/devEnvsEvents
+2024-02-02T02:14:49.829Z info 	[IPC] devEnvs.devEnvsEvents: Started streaming ([{}])
+2024-02-02T02:14:49.847Z info 	[HTTP] 200: POST /usage
+2024-02-02T02:14:49.935Z info 	[HTTP] 200: GET /devenvironments/list
+2024-02-02T02:14:50.303Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-02T02:14:50.640Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-02T02:14:56.053Z info 	[IPC] devEnvs.devEnvsEvents: Unsubscribed after 6223ms, emitted 0 times
+2024-02-02T02:14:56.060Z info 	[IPC] build.buildBackendGetBuildsStream: Started streaming ([{}])
+2024-02-02T02:14:56.064Z info 	[IPC] build.buildBackendGetBuildersStream: Started streaming ([{}])
+2024-02-02T02:14:56.065Z info 	[HEARTBEAT] buildDashboardOpen
+2024-02-02T02:14:56.068Z info 	[IPC] desktopGoBackend/track: eventBuildDashboard { action: 'show', screen: 'build' }
+2024-02-02T02:14:56.069Z info 	[HTTP] 200: POST /usage
+2024-02-02T02:14:56.070Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:14:56.411Z info 	[HTTP] 200: GET /builds
+2024-02-02T02:14:58.163Z info 	[HTTP] 200: GET /builds
+2024-02-02T02:14:58.328Z info 	[SSE] /install/events emitted: true
+2024-02-02T02:14:58.334Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-02T02:14:58.337Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-02T02:15:00.760Z info 	[HTTP] 200: GET /builds
+2024-02-02T02:15:13.129Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:15:13.800Z info 	[INDEX] new image to index sha256:50f4bdddc8adc49b9fedb0e1c53eec49e4b4f4af44c0b58f6ac10146f8a00113
+2024-02-02T02:15:13.801Z info 	[INDEX] starting index of sha256:50f4bdddc8adc49b9fedb0e1c53eec49e4b4f4af44c0b58f6ac10146f8a00113
+2024-02-02T02:15:15.424Z info 	[IPC] desktopGoBackend/track: eventBuildDashboard { action: 'openBuildersSettings', screen: 'build' }
+2024-02-02T02:15:15.429Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:15:15.910Z info 	[IPC] build.buildBackendGetBuildersStream: Started streaming ([{}])
+2024-02-02T02:15:15.949Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-02T02:15:15.950Z info 	[IPC] desktopGoBackend/track: eventBuildDashboard { action: 'show', screen: 'buildersSettings' }
+2024-02-02T02:15:15.952Z info 	[IPC] desktopGoBackend/getSettings:
+2024-02-02T02:15:15.954Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:15:16.048Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:15:16.224Z info 	[IPC] desktopGoBackend/getSystemDiskUsage: /Users/<USER>/Library/Containers/com.docker.docker/Data/vms/0/data
+2024-02-02T02:15:16.226Z info 	[HTTP] 200: GET /system/disk-usage?path=%2FUsers%2F<USER>%2FLibrary%2FContainers%2Fcom.docker.docker%2FData%2Fvms%2F0%2Fdata
+2024-02-02T02:15:16.537Z info 	[HTTP] 200: GET /builds
+2024-02-02T02:15:16.680Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-02T02:15:18.123Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:15:18.139Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:15:18.567Z info 	[IPC] build.buildBackendGetBuildersStream: Unsubscribed after 2657ms, emitted 4 times
+2024-02-02T02:15:19.392Z info 	[HTTP] 200: GET /builds
+2024-02-02T02:15:23.517Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:15:25.382Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:15:25.384Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:15:25.897Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:15:25.899Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:15:26.245Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:15:26.317Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:15:26.319Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:15:27.538Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:15:27.540Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:15:33.766Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:15:33.945Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:15:33.953Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:15:34.215Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:15:55.936Z info 	[HTTP] 200: GET /devenvironments/check
+2024-02-02T02:16:10.331Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:16:10.355Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:16:11.558Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:11.559Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:11.560Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:11.561Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:11.562Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:11.579Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:11.594Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:11.600Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:13.350Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:16:13.997Z info 	[INDEX] new image to index sha256:b857417e6780008060294f76f4097d48d8d8cf3030d1582698a4c8b2a6995c9b
+2024-02-02T02:16:13.997Z info 	[INDEX] starting index of sha256:b857417e6780008060294f76f4097d48d8d8cf3030d1582698a4c8b2a6995c9b
+2024-02-02T02:16:15.145Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:15.147Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:16.291Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:16:17.500Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:17.503Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:17.760Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:17.765Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:17.932Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:17.934Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:20.012Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:16:21.173Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:21.188Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:21.885Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:21.887Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:22.778Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:22.780Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:23.044Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:23.046Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:23.849Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:23.854Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:23.973Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:16:27.345Z info 	[IPC] extensions.extensionsBackendInstall: Unsubscribed after 147117ms, emitted 16 times
+2024-02-02T02:16:27.349Z info 	[SSE] Received: { extensionId: 'checkmarx/imagex', type: 'installFailure' }
+2024-02-02T02:16:27.356Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:27.357Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:27.358Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:27.424Z info 	[IPC] desktopGoBackend/track: eventDesktopExtension {
+  searchQuery: '',
+  category: '',
+  queryResultsCount: undefined,
+  action: 'InstallFailure',
+  privateMarketplace: false,
+  name: 'Checkmarx',
+  image: 'checkmarx/imagex',
+  tag: '0.0.27',
+  type: 'not_reviewed',
+  context: 'marketplace'
+}
+2024-02-02T02:16:27.431Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:27.436Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:16:27.437Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:27.439Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:16:27.496Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-02T02:16:27.806Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-02T02:16:27.813Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-02T02:16:27.888Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-02T02:16:28.326Z info 	[HTTP] 200: GET /store
+2024-02-02T02:16:28.409Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-02T02:16:28.654Z info 	[HTTP] 200: GET /store
+2024-02-02T02:16:28.802Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-02T02:16:31.101Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-02T02:16:35.722Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:16:37.048Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:17:02.966Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:17:03.776Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:17:04.038Z info 	[INDEX] new image to index sha256:292f1fadee467ed76db258bd49ec9ea538bc01e00557fdca757e81a5aa43a5cc
+2024-02-02T02:17:16.348Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-02T02:17:16.839Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-02T02:17:17.293Z info 	[HTTP] 200: GET /builds
+2024-02-02T02:17:37.242Z info 	[IPC] desktopGoBackend/getFeatures:
+2024-02-02T02:17:37.254Z info 	[HTTP] 200: GET /features
+2024-02-02T02:17:39.374Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:17:39.376Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:17:48.782Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-02T02:17:50.155Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:17:52.531Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:17:54.665Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:17:54.672Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:17:54.922Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:17:54.926Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:17:55.487Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:17:55.489Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:17:55.932Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:17:55.934Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:18:02.687Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:18:52.174Z error 	[INDEX] docker-scout failed with error:  Status: could not get the image sha256:50f4bdddc8adc49b9fedb0e1c53eec49e4b4f4af44c0b58f6ac10146f8a00113 from cache: Error response from daemon: No such image: sha256:50f4bdddc8adc49b9fedb0e1c53eec49e4b4f4af44c0b58f6ac10146f8a00113, Code: 1
+2024-02-02T02:18:52.180Z info 	[INDEX] starting index of sha256:292f1fadee467ed76db258bd49ec9ea538bc01e00557fdca757e81a5aa43a5cc
+2024-02-02T02:18:55.428Z info 	[INDEX] finished indexing sha256:50f4bdddc8adc49b9fedb0e1c53eec49e4b4f4af44c0b58f6ac10146f8a00113
+2024-02-02T02:19:25.700Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:19:25.736Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:19:26.495Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:19:26.497Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:19:29.053Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:19:31.516Z info 	[INDEX] new image to index sha256:7567a7c70a3c1d75aeeedc968d1304174a16651e55a60d1fb132a05e1e63a054
+2024-02-02T02:19:59.872Z info 	[INDEX] new image to index sha256:beb5e30ffba08d9ae8a7961b9a2145fc8af6296ff2a4f463df7cd722fcbfc789
+2024-02-02T02:20:08.369Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:20:10.282Z info 	[HTTP] 200: GET /volumes
+2024-02-02T02:20:10.368Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:20:11.191Z info 	[HTTP] 200: GET /volumes
+2024-02-02T02:20:11.207Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:20:15.411Z info 	[HTTP] 200: GET /volumes
+2024-02-02T02:20:15.416Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:20:16.353Z info 	[HTTP] 200: GET /volumes
+2024-02-02T02:20:16.356Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:20:25.880Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:20:26.222Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:20:52.080Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:20:52.471Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:21:18.450Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:21:18.843Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:21:44.443Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:21:44.551Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:22:13.244Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:22:13.566Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:22:16.060Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:16.070Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:16.071Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:16.152Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:18.196Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:18.209Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:18.537Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:18.539Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:18.540Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:18.550Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:18.595Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:18.693Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:41.381Z info 	[SSE] Received: {
+  extensionId: 'artifision/php-dumper-docker-extension',
+  type: 'installSuccess'
+}
+2024-02-02T02:22:41.529Z info 	[IPC] extensions.extensionsBackendInstall: Unsubscribed after 494820ms, emitted 9 times
+2024-02-02T02:22:41.854Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-02T02:22:41.858Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-02T02:22:41.860Z info 	[IPC] desktopGoBackend/track: eventDesktopExtension {
+  searchQuery: '',
+  category: '',
+  queryResultsCount: undefined,
+  action: 'InstallSuccess',
+  privateMarketplace: false,
+  name: 'PHP Dumper',
+  image: 'artifision/php-dumper-docker-extension',
+  tag: '1.0.0',
+  type: 'not_reviewed',
+  context: 'marketplace'
+}
+2024-02-02T02:22:41.875Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-02T02:22:41.877Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:22:41.880Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:41.886Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:42.476Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-02T02:22:42.497Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-02T02:22:42.920Z info 	[HTTP] 200: GET /store
+2024-02-02T02:22:43.005Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-02T02:22:43.022Z info 	[HTTP] 200: GET /store
+2024-02-02T02:22:46.191Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:22:47.493Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-02T02:22:48.383Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:22:54.305Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:22:58.083Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:58.091Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:58.545Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:58.550Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:58.807Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:58.811Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:22:59.002Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:23:01.154Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:24:34.392Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:26:22.446Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:26:30.296Z info 	open with opts: { name: 'about' }
+2024-02-02T02:27:15.426Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:27:41.591Z info 	[HTTP] 200: GET /builds
+2024-02-02T02:30:03.290Z info 	[IPC] desktopGoBackend/getFeatures:
+2024-02-02T02:30:03.395Z info 	[IPC] desktopGoBackend/getSettings:
+2024-02-02T02:30:03.396Z info 	[IPC] desktopGoBackend/getVersions:
+2024-02-02T02:30:03.397Z info 	[IPC] desktopGoBackend/defaultEditor:
+2024-02-02T02:30:03.397Z info 	[IPC] desktopGoBackend/getSystemInfo:
+2024-02-02T02:30:03.398Z info 	[IPC] desktopGoBackend/getInstallStatus:
+2024-02-02T02:30:03.398Z info 	[IPC] desktopGoBackend/getPauseState:
+2024-02-02T02:30:03.400Z info 	[IPC] extensionsBackend/getOS: []
+2024-02-02T02:30:03.403Z info 	[IPC] desktopGoBackend/getUUID:
+2024-02-02T02:30:03.405Z info 	[IPC] desktopGoBackend/getKubernetes:
+2024-02-02T02:30:03.491Z info 	[IPC] desktopGoBackend/getDockerState:
+2024-02-02T02:30:03.808Z info 	[IPC] extensions.extensionsBackendEvents: Started streaming ([{}])
+2024-02-02T02:30:04.514Z info 	[HTTP] 200: GET /docker
+2024-02-02T02:30:04.515Z info 	[HTTP] 200: GET /kubernetes
+2024-02-02T02:30:04.537Z info 	[HTTP] 200: GET /versions
+2024-02-02T02:30:04.541Z info 	[HTTP] 200: GET /system/info
+2024-02-02T02:30:04.542Z info 	[HTTP] 200: GET /backend/state
+2024-02-02T02:30:04.654Z info 	[HTTP] 200: GET /features
+2024-02-02T02:30:04.806Z info 	[HTTP] 200: GET /uuid
+2024-02-02T02:30:04.807Z info 	[HTTP] 200: GET /install/check
+2024-02-02T02:30:05.000Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:30:11.756Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-02T02:30:11.760Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:30:11.764Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:30:11.769Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-02T02:30:12.040Z info 	[HTTP] 200: GET /store/categories
+2024-02-02T02:30:12.260Z info 	[IPC] extensions.extensionsBackendEvents: Unsubscribed after 8452ms, emitted 0 times
+2024-02-02T02:30:12.262Z info 	[IPC] extensions.extensionsBackendEvents: Started streaming ([{}])
+2024-02-02T02:30:14.980Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-02T02:30:15.735Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-02T02:30:16.354Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-02T02:30:25.296Z info 	before closing windows, childPids to kill:  []
+2024-02-02T02:30:25.766Z info 	[IPC] desktopGoBackend/getSystemDiskUsage: /Users/<USER>/Library/Containers/com.docker.docker/Data/vms/0/data
+2024-02-02T02:30:25.768Z info 	[HTTP] 200: GET /system/disk-usage?path=%2FUsers%2F<USER>%2FLibrary%2FContainers%2Fcom.docker.docker%2FData%2Fvms%2F0%2Fdata
+2024-02-02T02:30:25.769Z info 	[HTTP] 200: GET /store/categories
+2024-02-02T02:30:33.151Z info 	[HTTP] 200: GET /system/editor
+2024-02-02T02:31:31.814Z info 	[INDEX] finished indexing sha256:b857417e6780008060294f76f4097d48d8d8cf3030d1582698a4c8b2a6995c9b
+2024-02-02T02:31:31.833Z info 	[INDEX] starting index of sha256:beb5e30ffba08d9ae8a7961b9a2145fc8af6296ff2a4f463df7cd722fcbfc789
+2024-02-02T02:31:44.146Z info 	[IPC] desktopGoBackend/track: eventNotificationCenter { action: 'open-notification-center' }
+2024-02-02T02:31:44.522Z info 	[IPC] desktopGoBackend/track: eventFooter { action: 'click', context: 'notifications' }
+2024-02-02T02:31:44.523Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:31:44.696Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:32:04.688Z info 	[IPC] desktopGoBackend/track: eventFooter { action: 'click', context: 'notifications' }
+2024-02-02T02:32:05.619Z info 	[IPC] desktopGoBackend/track: eventNotificationCenter { action: 'open-notification-center' }
+2024-02-02T02:32:05.622Z info 	[IPC] desktopGoBackend/track: eventFooter { action: 'click', context: 'notifications' }
+2024-02-02T02:32:08.431Z info 	[IPC] desktopGoBackend/track: eventFooter { action: 'click', context: 'notifications' }
+2024-02-02T02:32:08.848Z info 	[IPC] desktopGoBackend/track: eventNotificationCenter { action: 'open-notification-center' }
+2024-02-02T02:32:08.849Z info 	[IPC] desktopGoBackend/track: eventFooter { action: 'click', context: 'notifications' }
+2024-02-02T02:32:11.298Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-02T02:32:11.298Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-02T02:32:11.302Z info 	[IPC] desktopGoBackend/getFeatures:
+2024-02-02T02:32:11.303Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:32:11.304Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:32:11.304Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:32:11.304Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:32:11.305Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:32:11.305Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:32:11.351Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-02T02:32:11.352Z info 	[HTTP] 200: GET /features
+2024-02-02T02:32:11.354Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-02T02:32:11.394Z info 	[HTTP] 200: GET /store/categories
+2024-02-02T02:32:12.227Z info 	[HTTP] 200: GET /builds
+2024-02-02T02:32:12.442Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-02T02:32:14.404Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-02T02:32:14.508Z info 	[HTTP] 200: GET /store
+2024-02-02T02:32:15.754Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-02T02:32:20.868Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-02T02:36:40.520Z info 	[INDEX] finished indexing sha256:beb5e30ffba08d9ae8a7961b9a2145fc8af6296ff2a4f463df7cd722fcbfc789
+2024-02-02T02:36:41.060Z info 	[INDEX] starting index of sha256:7567a7c70a3c1d75aeeedc968d1304174a16651e55a60d1fb132a05e1e63a054
+2024-02-02T02:37:38.426Z info 	[IPC] desktopGoBackend/getFeatures:
+2024-02-02T02:37:38.478Z info 	[HTTP] 200: GET /features
+2024-02-02T02:41:44.544Z info 	[INDEX] finished indexing sha256:7567a7c70a3c1d75aeeedc968d1304174a16651e55a60d1fb132a05e1e63a054
+2024-02-02T02:45:42.528Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:45:47.157Z info 	[SSE] Received: { extensionId: 'dockasaurusrx/dockasaurusrx', type: 'installFailure' }
+2024-02-02T02:45:47.551Z info 	[IPC] extensions.extensionsBackendInstall: Unsubscribed after 1884698ms, emitted 16 times
+2024-02-02T02:45:47.822Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:45:47.825Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:45:48.123Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-02T02:45:48.124Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-02T02:45:48.198Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:45:48.204Z info 	[IPC] desktopGoBackend/track: eventDesktopExtension {
+  searchQuery: '',
+  category: '',
+  queryResultsCount: undefined,
+  action: 'InstallFailure',
+  privateMarketplace: false,
+  name: 'DockasaurusRX',
+  image: 'dockasaurusrx/dockasaurusrx',
+  tag: '1.0.2',
+  type: 'not_reviewed',
+  context: 'marketplace'
+}
+2024-02-02T02:45:48.207Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-02T02:45:48.207Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:45:48.480Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:45:48.480Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:45:48.486Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:46:01.384Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-02T02:46:01.388Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-02T02:46:01.397Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-02T02:46:01.400Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-02T02:46:02.531Z info 	[HTTP] 200: GET /store
+2024-02-02T02:46:02.598Z info 	[HTTP] 200: GET /store
+2024-02-02T02:46:20.240Z info 	[INDEX] finished indexing sha256:292f1fadee467ed76db258bd49ec9ea538bc01e00557fdca757e81a5aa43a5cc
+2024-02-02T02:46:27.671Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:48:08.111Z info 	[IPC] desktopGoBackend/getFeatures:
+2024-02-02T02:48:11.290Z info 	[HTTP] 200: GET /features
+2024-02-02T02:53:44.905Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:53:45.223Z info 	[INDEX] image sha256:4ab2189829caf321e97697610b18189fb07bc2d002fb9fda87fc6f490a1fd2e9 too big to index in background
+2024-02-02T02:54:24.177Z info 	[HTTP] 200: GET /volumes
+2024-02-02T02:54:24.358Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:54:27.126Z info 	[HTTP] 200: GET /volumes
+2024-02-02T02:54:27.128Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:54:32.628Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:54:32.634Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:55:15.073Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:55:15.159Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:55:15.159Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:55:15.160Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:55:15.161Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:55:15.835Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:55:16.074Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:55:16.291Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:56:26.191Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:56:26.351Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-02T02:56:59.623Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:56:59.634Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:57:00.235Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:57:00.238Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:57:03.435Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:57:03.443Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:57:23.503Z info 	[HTTP] 200: GET /builds
+2024-02-02T02:57:53.869Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:57:54.478Z info 	[SSE] Received: {
+  extensionId: 'ajeetraina/mindsdb-docker-extension',
+  type: 'installFailure'
+}
+2024-02-02T02:57:54.484Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:57:54.485Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:57:54.487Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:57:54.540Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:57:54.706Z info 	[IPC] extensions.extensionsBackendInstall: Unsubscribed after 2668410ms, emitted 17 times
+2024-02-02T02:57:55.055Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-02T02:57:55.056Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-02T02:57:55.096Z info 	[IPC] desktopGoBackend/track: eventDesktopExtension {
+  searchQuery: '',
+  category: '',
+  queryResultsCount: undefined,
+  action: 'InstallFailure',
+  privateMarketplace: false,
+  name: 'Mindsdb',
+  image: 'ajeetraina/mindsdb-docker-extension',
+  tag: '1.0.4',
+  type: 'not_reviewed',
+  context: 'marketplace'
+}
+2024-02-02T02:57:55.101Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-02T02:57:55.102Z info 	[HTTP] 200: POST /analytics/track
+2024-02-02T02:57:55.102Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:57:55.104Z info 	[HTTP] 200: GET /app/settings
+2024-02-02T02:57:55.347Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-02T02:57:55.451Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-02T02:57:55.756Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-02T02:57:55.806Z info 	[HTTP] 200: GET /store
+2024-02-02T02:57:55.844Z info 	[HTTP] 200: GET /store
+2024-02-02T02:57:56.821Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-02T02:57:58.562Z info 	[IPC] dockerListImages: undefined
+2024-02-02T02:58:07.173Z info 	[IPC] desktopGoBackend/getFeatures:
+2024-02-02T02:58:07.289Z info 	[HTTP] 200: GET /features

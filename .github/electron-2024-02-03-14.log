@@ -1,0 +1,262 @@
+2024-02-03T19:21:36.077Z info 	[HTTP] Error on /constants: connect ECONNREFUSED backend.sock
+2024-02-03T19:21:36.078Z error 	!!! get /constants
+2024-02-03T19:21:36.078Z error 	Server did not respond to request
+2024-02-03T19:21:36.080Z error 	Failed to get constants from backend {}
+2024-02-03T19:21:36.095Z info 	application has just finished initializing
+2024-02-03T19:21:53.760Z info 	open Mac binary
+2024-02-03T19:21:54.432Z info 	application is about to quit 0, stopping sse clients
+2024-02-03T19:21:54.526Z info 	[HTTP] Error on /features: connect ECONNREFUSED backend.sock
+2024-02-03T19:21:54.526Z error 	!!! get /features
+2024-02-03T19:21:54.526Z error 	Server did not respond to request
+2024-02-03T19:21:54.527Z error 	Unhandled promise rejection : {}
+2024-02-03T19:35:24.662Z info 	[SSE] /install/events emitted: false
+2024-02-03T19:35:41.790Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-03T19:35:42.153Z info 	[SSE] Received: {
+  type: 'LoginSuccess',
+  username: '<USER>',
+  email: '<EMAIL>',
+  entitlements: { isProUser: false, planName: 'personal' },
+  accessToken: '[REDACTED]'
+}
+2024-02-03T19:35:42.333Z info 	[SSE] Received: {
+  updateStatus: 'upToDate',
+  currentBuild: '131620',
+  currentVersion: '4.26.1'
+}
+2024-02-03T19:35:42.333Z info 	[SSE] Received: { hasBeenAccepted: true }
+2024-02-03T19:35:55.345Z info 	[HTTP] 200: GET /constants
+2024-02-03T19:35:57.155Z info 	application has just finished initializing
+2024-02-03T19:37:00.006Z info 	open with opts: {
+  _: [
+    '/Applications/Docker.app/Contents/MacOS/Docker Desktop.app/Contents/MacOS/Docker Desktop'
+  ],
+  name: 'dashboard'
+}
+2024-02-03T19:37:00.006Z info 	[TRAY] load icon, themeSettings =  null
+2024-02-03T19:37:01.382Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: false and loginRestricted: false
+2024-02-03T19:39:22.699Z info 	[HTTP] 200: GET /features
+2024-02-03T19:39:29.613Z info 	[HTTP] 200: GET /ping
+2024-02-03T19:39:35.980Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: false and loginRestricted: false
+2024-02-03T19:39:36.999Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: false and loginRestricted: false
+2024-02-03T19:39:38.280Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: false and loginRestricted: false
+2024-02-03T19:39:38.281Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:39:38.283Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:39:38.285Z info 	[HTTP] 200: GET /ping
+2024-02-03T19:39:40.651Z info 	[HTTP] 200: GET /versions
+2024-02-03T19:39:40.651Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:39:46.074Z info 	[HTTP] 200: GET /features
+2024-02-03T19:39:46.078Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:39:46.079Z info 	[HTTP] 200: GET /install/check
+2024-02-03T19:39:46.082Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:39:46.083Z info 	[HTTP] 200: GET /backend/state
+2024-02-03T19:39:46.087Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:39:46.089Z info 	[HTTP] 200: GET /docker
+2024-02-03T19:39:46.280Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:39:46.282Z info 	[HTTP] 200: GET /kubernetes
+2024-02-03T19:39:46.285Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:39:47.242Z info 	[HTTP] 200: GET /features
+2024-02-03T19:39:51.509Z info 	[HTTP] 200: GET /app/settings
+2024-02-03T19:39:51.766Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-03T19:39:51.767Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:40:30.627Z info 	[HTTP] 200: GET /store
+2024-02-03T19:40:31.026Z info 	[HTTP] 200: GET /store
+2024-02-03T19:40:31.151Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-03T19:40:31.152Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:40:44.383Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-03T19:40:44.383Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:40:44.693Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-03T19:40:45.482Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-03T19:40:45.483Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:40:45.485Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-03T19:40:45.492Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-03T19:40:45.493Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:40:45.495Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-03T19:40:45.502Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-03T19:40:45.503Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:40:45.504Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-03T19:40:46.854Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-03T19:40:46.855Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:40:46.857Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-03T19:40:46.865Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-03T19:40:46.866Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:40:46.868Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-03T19:41:01.275Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-03T19:41:01.276Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:41:04.535Z info 	[IPC] desktopGoBackend/getFeatures:
+2024-02-03T19:41:04.535Z info 	[IPC] desktopGoBackend/getSettings:
+2024-02-03T19:41:04.536Z info 	[IPC] desktopGoBackend/getVersions:
+2024-02-03T19:41:04.536Z info 	[IPC] desktopGoBackend/defaultEditor:
+2024-02-03T19:41:04.537Z info 	[IPC] desktopGoBackend/getSystemInfo:
+2024-02-03T19:41:04.537Z info 	[IPC] desktopGoBackend/getInstallStatus:
+2024-02-03T19:41:04.538Z info 	[IPC] desktopGoBackend/getPauseState:
+2024-02-03T19:41:04.538Z info 	[IPC] extensionsBackend/getOS: []
+2024-02-03T19:41:04.621Z info 	[IPC] desktopGoBackend/getUUID:
+2024-02-03T19:41:04.622Z info 	[HTTP] 200: GET /features
+2024-02-03T19:41:04.623Z info 	[HTTP] 200: GET /app/settings
+2024-02-03T19:41:04.623Z info 	[HTTP] 200: GET /versions
+2024-02-03T19:41:04.624Z info 	[HTTP] 200: GET /system/info
+2024-02-03T19:41:04.624Z info 	[HTTP] 200: GET /backend/state
+2024-02-03T19:41:04.624Z info 	[HTTP] 200: GET /install/check
+2024-02-03T19:41:04.625Z info 	[IPC] desktopGoBackend/getKubernetes:
+2024-02-03T19:41:04.627Z info 	[IPC] desktopGoBackend/getDockerState:
+2024-02-03T19:41:04.629Z info 	[IPC] extensions.extensionsBackendEvents: Started streaming ([{}])
+2024-02-03T19:41:04.630Z info 	[HTTP] 200: GET /docker
+2024-02-03T19:41:04.630Z info 	[HTTP] 200: GET /kubernetes
+2024-02-03T19:41:04.778Z info 	[HTTP] 200: GET /uuid
+2024-02-03T19:41:07.130Z info 	[SSEManager] Init SSE streams to browser window after it is loaded
+2024-02-03T19:41:07.854Z info 	[IPC] desktopGoBackend/getSystemDiskUsage: /Users/<USER>/Library/Containers/com.docker.docker/Data/vms/0/data
+2024-02-03T19:41:07.856Z info 	[HTTP] 200: GET /system/disk-usage?path=%2FUsers%2F<USER>%2FLibrary%2FContainers%2Fcom.docker.docker%2FData%2Fvms%2F0%2Fdata
+2024-02-03T19:41:08.952Z info 	[HTTP] 200: GET /store/categories
+2024-02-03T19:41:10.932Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-03T19:41:10.933Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-03T19:41:11.271Z info 	[IPC] extensions.extensionsBackendEvents: Unsubscribed after 6642ms, emitted 0 times
+2024-02-03T19:41:11.667Z info 	[HTTP] 200: GET /store/categories
+2024-02-03T19:41:11.882Z info 	[HTTP] 200: GET /system/editor
+2024-02-03T19:41:14.179Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-03T19:41:16.777Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/users/aimetaverse/ redirecting to v2/users/aimetaverse/
+2024-02-03T19:41:16.778Z info 	[Web Request Interceptor] request https://dd-docker-hub/v2/user/orgs?page_size=100 redirecting to v2/user/orgs?page_size=100
+2024-02-03T19:41:16.907Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-03T19:41:16.972Z info 	[HTTP] 200: GET /store
+2024-02-03T19:41:19.859Z info 	[HTTP] 200: GET https://hub.docker.com/v2/users/aimetaverse/
+2024-02-03T19:41:19.862Z info 	[HTTP] 200: GET https://hub.docker.com/v2/user/orgs?page_size=100
+2024-02-03T19:41:20.413Z info 	[IPC] desktopGoBackend/track: eventEngineState { action: 'EngineScreenDisplayed', state: 'EngineStarting' }
+2024-02-03T19:41:20.629Z info 	[HTTP] 200: POST /analytics/track
+2024-02-03T19:47:47.161Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-03T19:47:47.901Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:47:49.077Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2024-02-03T19:47:49.993Z info 	[INDEX] listening for new images
+2024-02-03T19:47:50.476Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-03T19:47:50.516Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:47:50.896Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'running',
+  idle: 'running',
+  state: 'running',
+  mode: 'linux'
+}
+2024-02-03T19:47:51.026Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-03T19:47:51.027Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:47:51.029Z info 	[SSE] Received: { state: 'starting', enabled: true }
+2024-02-03T19:47:51.030Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-03T19:47:53.299Z info 	[HTTP] 200: GET /app/settings
+2024-02-03T19:47:55.303Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-03T19:47:56.067Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-03T19:47:56.068Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-03T19:47:56.069Z info 	[IPC] dockerListImages: undefined
+2024-02-03T19:47:56.070Z info 	[IPC] dockerDf
+2024-02-03T19:47:56.091Z info 	[HTTP] 200: GET /store/categories
+2024-02-03T19:47:56.127Z info 	[IPC] extensions.extensionsBackendEvents: Started streaming ([{}])
+2024-02-03T19:47:56.127Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2024-02-03T19:47:56.128Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2024-02-03T19:47:57.226Z info 	[HTTP] 200: GET /store/suggestions
+2024-02-03T19:47:57.229Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-03T19:47:57.230Z info 	[HTTP] 200: GET /store/unpublished
+2024-02-03T19:47:58.539Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-03T19:47:58.541Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-03T19:47:58.542Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2024-02-03T19:48:00.019Z info 	[IPC] build.buildBackendGetBuildsStream: Started streaming ([{}])
+2024-02-03T19:48:00.020Z info 	[IPC] build.buildBackendGetBuildersStream: Started streaming ([{}])
+2024-02-03T19:48:00.020Z info 	[HEARTBEAT] buildDashboardOpen
+2024-02-03T19:48:00.157Z info 	[IPC] desktopGoBackend/track: eventBuildDashboard { action: 'show', screen: 'build' }
+2024-02-03T19:48:00.164Z info 	[HTTP] 200: POST /usage
+2024-02-03T19:48:00.366Z info 	[HTTP] 200: POST /analytics/track
+2024-02-03T19:48:03.814Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-03T19:48:03.816Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2024-02-03T19:48:03.964Z info 	[HTTP] 200: GET /store
+2024-02-03T19:48:04.134Z info 	[IPC] dockerStreamEvents, since: 1706989675
+2024-02-03T19:48:04.135Z info 	[IPC] engine.dockerStreamEvents: Started streaming ([{"since":1706989675}])
+2024-02-03T19:48:04.241Z info 	[Docker socket] REQ: GET /events 
+2024-02-03T19:48:04.271Z info 	[HTTP] 200: GET /store
+2024-02-03T19:48:04.419Z info 	[Docker socket] 200: GET /events?since=1706989675
+2024-02-03T19:48:05.568Z info 	[HTTP] 200: GET /volumes
+2024-02-03T19:48:05.568Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-03T19:48:05.631Z info 	[IPC] dockerStreamEvents, since: 1706989679
+2024-02-03T19:48:05.632Z info 	[IPC] engine.dockerStreamEvents: Started streaming ([{"since":1706989679}])
+2024-02-03T19:48:05.632Z info 	[Docker socket] REQ: GET /events 
+2024-02-03T19:48:05.635Z info 	[Docker socket] 200: GET /events?since=1706989679
+2024-02-03T19:48:08.859Z info 	[HTTP] 200: GET /builds
+2024-02-03T19:48:10.051Z info 	[HTTP] 200: GET /builds
+2024-02-03T19:48:13.246Z info 	[HTTP] 200: GET /builds
+2024-02-03T19:48:15.995Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2024-02-03T19:48:15.996Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2024-02-03T19:48:27.457Z info 	[IPC] dockerListImages: undefined
+2024-02-03T19:48:27.461Z info 	[IPC] dockerListContainers: {"all":true}
+2024-02-03T19:51:11.151Z info 	[IPC] desktopGoBackend/getFeatures:
+2024-02-03T19:51:12.150Z info 	[HTTP] 200: GET /features
+2024-02-03T19:59:40.791Z info 	[IPC] dockerListImages: undefined
+2024-02-03T19:59:53.183Z info 	[IPC] dockerListContainers: {"all":true}
