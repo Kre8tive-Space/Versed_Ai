@@ -1,0 +1,267 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="./">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jupyter on your system &mdash; Jupyter 4.0.0.dev documentation</title>
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
+      <link rel="stylesheet" type="text/css" href="_static/css/theme.css?v=9edc463e" />
+
+  
+      <script src="_static/documentation_options.js?v=e7be3b63"></script>
+      <script src="_static/doctools.js?v=fd6eb6e6"></script>
+      <script src="_static/sphinx_highlight.js?v=6ffebe34"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Jupyter for Data Science" href="data_science.html" />
+    <link rel="prev" title="Configuring Jupyter applications" href="config.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            Jupyter
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="install.html">Installation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="config.html">Configuring Jupyter applications</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Jupyter on your system</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#the-jupyter-command">The jupyter command</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#jupyter-directories">Jupyter directories</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#configuration">Configuration</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#data-files">Data files</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#runtime-files">Runtime files</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="data_science.html">Jupyter for Data Science</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">Jupyter</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Jupyter on your system</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/system.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="jupyter-on-your-system">
+<h1>Jupyter on your system<a class="headerlink" href="#jupyter-on-your-system" title="Link to this heading">¶</a></h1>
+<section id="the-jupyter-command">
+<span id="jupyter-command"></span><h2>The jupyter command<a class="headerlink" href="#the-jupyter-command" title="Link to this heading">¶</a></h2>
+<p>Jupyter applications are started with commands like <code class="docutils literal notranslate"><span class="pre">jupyter</span> <span class="pre">notebook</span></code>.
+The <code class="docutils literal notranslate"><span class="pre">jupyter</span></code> command is primarily a namespace for subcommands:
+any command like <code class="docutils literal notranslate"><span class="pre">jupyter-foo</span></code> found on your <span class="target" id="index-0"></span><code class="xref std std-envvar docutils literal notranslate"><span class="pre">PATH</span></code> will be
+available as a subcommand <code class="docutils literal notranslate"><span class="pre">jupyter</span> <span class="pre">foo</span></code>.</p>
+<p>The jupyter command can also do a few basic things itself:</p>
+<dl class="std option">
+<dt class="sig sig-object std" id="cmdoption-jupyter-h">
+<span id="cmdoption-jupyter-help"></span><span class="sig-name descname"><span class="pre">-h</span></span><span class="sig-prename descclassname"></span><span class="sig-prename descclassname"><span class="pre">,</span> </span><span class="sig-name descname"><span class="pre">--help</span></span><span class="sig-prename descclassname"></span><a class="headerlink" href="#cmdoption-jupyter-h" title="Link to this definition">¶</a></dt>
+<dd><p>Show help information, including available subcommands.</p>
+</dd></dl>
+
+<dl class="std option">
+<dt class="sig sig-object std" id="cmdoption-jupyter-config-dir">
+<span class="sig-name descname"><span class="pre">--config-dir</span></span><span class="sig-prename descclassname"></span><a class="headerlink" href="#cmdoption-jupyter-config-dir" title="Link to this definition">¶</a></dt>
+<dd><p>Show the location of the config directory.</p>
+</dd></dl>
+
+<dl class="std option">
+<dt class="sig sig-object std" id="cmdoption-jupyter-data-dir">
+<span class="sig-name descname"><span class="pre">--data-dir</span></span><span class="sig-prename descclassname"></span><a class="headerlink" href="#cmdoption-jupyter-data-dir" title="Link to this definition">¶</a></dt>
+<dd><p>Show the location of the data directory.</p>
+</dd></dl>
+
+<dl class="std option">
+<dt class="sig sig-object std" id="cmdoption-jupyter-runtime-dir">
+<span class="sig-name descname"><span class="pre">--runtime-dir</span></span><span class="sig-prename descclassname"></span><a class="headerlink" href="#cmdoption-jupyter-runtime-dir" title="Link to this definition">¶</a></dt>
+<dd><p>Show the location of the data directory.</p>
+</dd></dl>
+
+<dl class="std option">
+<dt class="sig sig-object std" id="cmdoption-jupyter-paths">
+<span class="sig-name descname"><span class="pre">--paths</span></span><span class="sig-prename descclassname"></span><a class="headerlink" href="#cmdoption-jupyter-paths" title="Link to this definition">¶</a></dt>
+<dd><p>Show all Jupyter directories and search paths.</p>
+<dl class="std option">
+<dt class="sig sig-object std" id="cmdoption-jupyter-json">
+<span class="sig-name descname"><span class="pre">--json</span></span><span class="sig-prename descclassname"></span><a class="headerlink" href="#cmdoption-jupyter-json" title="Link to this definition">¶</a></dt>
+<dd><p>Print directories and search paths in machine-readable JSON format.</p>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="jupyter-directories">
+<span id="id1"></span><h2>Jupyter directories<a class="headerlink" href="#jupyter-directories" title="Link to this heading">¶</a></h2>
+<p>Jupyter stores different files in a number of different locations:</p>
+<section id="configuration">
+<span id="config-dir"></span><h3>Configuration<a class="headerlink" href="#configuration" title="Link to this heading">¶</a></h3>
+<p>Config files are stored in <code class="file docutils literal notranslate"><span class="pre">~/.jupyter</span></code> by default.</p>
+<dl class="std envvar">
+<dt class="sig sig-object std" id="envvar-JUPYTER_CONFIG_DIR">
+<span class="sig-name descname"><span class="pre">JUPYTER_CONFIG_DIR</span></span><a class="headerlink" href="#envvar-JUPYTER_CONFIG_DIR" title="Link to this definition">¶</a></dt>
+<dd><p>Set this environment variable to use another location for Jupyter config files.</p>
+</dd></dl>
+
+<p>Besides the main user config directory, there is a search path of additional
+locations from which config will be loaded:</p>
+<table class="docutils align-default">
+<thead>
+<tr class="row-odd"><th class="head"><p>Unix</p></th>
+<th class="head"><p>Windows</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td colspan="2"><p>Config directory</p></td>
+</tr>
+<tr class="row-odd"><td colspan="2"><p><code class="docutils literal notranslate"><span class="pre">{sys.prefix}/etc/jupyter/</span></code></p></td>
+</tr>
+<tr class="row-even"><td><div class="line-block">
+<div class="line"><code class="docutils literal notranslate"><span class="pre">/usr/local/etc/jupyter/</span></code></div>
+<div class="line"><code class="docutils literal notranslate"><span class="pre">/etc/jupyter/</span></code></div>
+</div>
+</td>
+<td><p><code class="docutils literal notranslate"><span class="pre">%PROGRAMDATA%\jupyter\</span></code></p></td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="data-files">
+<span id="jupyter-path"></span><h2>Data files<a class="headerlink" href="#data-files" title="Link to this heading">¶</a></h2>
+<p>Jupyter uses a search path used for installable data files, such as <a class="reference external" href="https://jupyter-client.readthedocs.io/en/latest/kernels.html#kernelspecs" title="(in jupyter_client v8.10)"><span class="xref std std-ref">kernel
+specs</span></a> and notebook extensions. Typically, code will stop at the
+first directory of this search path containing the resource it is looking for.</p>
+<p>Each category of file in here is in a subdirectory of each directory of the
+search path. E.g. kernel specs are in <code class="docutils literal notranslate"><span class="pre">kernels</span></code> subdirectories.</p>
+<dl class="std envvar">
+<dt class="sig sig-object std" id="envvar-JUPYTER_PATH">
+<span class="sig-name descname"><span class="pre">JUPYTER_PATH</span></span><a class="headerlink" href="#envvar-JUPYTER_PATH" title="Link to this definition">¶</a></dt>
+<dd><p>Set this environment variable to provide extra directories for the data search
+path. It should be a series of directory paths, separated by <code class="docutils literal notranslate"><span class="pre">os.pathsep</span></code>
+(i.e. <code class="docutils literal notranslate"><span class="pre">;</span></code> on Windows, <code class="docutils literal notranslate"><span class="pre">:</span></code> on Unix).
+Directories given here are searched first.</p>
+</dd></dl>
+
+<table class="docutils align-default">
+<thead>
+<tr class="row-odd"><th class="head"><p>Linux (&amp; other free desktops)</p></th>
+<th class="head"><p>Mac</p></th>
+<th class="head"><p>Windows</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td colspan="3"><p><span class="target" id="index-1"></span><a class="reference internal" href="#envvar-JUPYTER_PATH"><code class="xref std std-envvar docutils literal notranslate"><span class="pre">JUPYTER_PATH</span></code></a></p></td>
+</tr>
+<tr class="row-odd"><td><div class="line-block">
+<div class="line"><code class="docutils literal notranslate"><span class="pre">~/.local/share/jupyter/</span></code></div>
+<div class="line">(respects <code class="docutils literal notranslate"><span class="pre">$XDG_DATA_HOME</span></code>)</div>
+</div>
+</td>
+<td><p><code class="docutils literal notranslate"><span class="pre">~/Library/Jupyter</span></code></p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">%APPDATA%\jupyter</span></code></p></td>
+</tr>
+<tr class="row-even"><td colspan="3"><p><code class="docutils literal notranslate"><span class="pre">{sys.prefix}/share/jupyter/</span></code></p></td>
+</tr>
+<tr class="row-odd"><td colspan="2"><div class="line-block">
+<div class="line"><code class="docutils literal notranslate"><span class="pre">/usr/local/share/jupyter</span></code></div>
+<div class="line"><code class="docutils literal notranslate"><span class="pre">/usr/share/jupyter</span></code></div>
+</div>
+</td>
+<td><p><code class="docutils literal notranslate"><span class="pre">%PROGRAMDATA\jupyter</span></code></p></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="runtime-files">
+<span id="jupyter-runtime-dir"></span><h2>Runtime files<a class="headerlink" href="#runtime-files" title="Link to this heading">¶</a></h2>
+<p>Things like connection files, which are only useful for the lifetime of a
+specific process, have their own directory.</p>
+<p>On Linux and other free desktop platforms, this is <code class="docutils literal notranslate"><span class="pre">$XDG_RUNTIME_DIR/jupyter</span></code>
+by default. On other platforms, it’s a <code class="docutils literal notranslate"><span class="pre">runtime/</span></code> subdirectory of the user’s
+data directory (second row of the table above).</p>
+<dl class="std envvar">
+<dt class="sig sig-object std" id="envvar-JUPYTER_RUNTIME_DIR">
+<span class="sig-name descname"><span class="pre">JUPYTER_RUNTIME_DIR</span></span><a class="headerlink" href="#envvar-JUPYTER_RUNTIME_DIR" title="Link to this definition">¶</a></dt>
+<dd><p>Set this to override where Jupyter stores runtime files.</p>
+</dd></dl>
+
+<div class="admonition seealso">
+<p class="admonition-title">See also</p>
+<dl class="simple">
+<dt><a class="reference external" href="https://jupyter-core.readthedocs.io/en/latest/api/jupyter_core.html#module-jupyter_core.paths" title="(in jupyter_core v5.9)"><code class="xref py py-mod docutils literal notranslate"><span class="pre">jupyter_core.paths</span></code></a></dt><dd><p>The Python API to locate these directories.</p>
+</dd>
+<dt><a class="reference internal" href="#jupyter-command"><span class="std std-ref">The jupyter command</span></a></dt><dd><p>Locate these directores from the command line.</p>
+</dd>
+</dl>
+</div>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="config.html" class="btn btn-neutral float-left" title="Configuring Jupyter applications" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="data_science.html" class="btn btn-neutral float-right" title="Jupyter for Data Science" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2015, Jupyter Team, https://jupyter.org.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

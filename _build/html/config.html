@@ -1,0 +1,163 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="./">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Configuring Jupyter applications &mdash; Jupyter 4.0.0.dev documentation</title>
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
+      <link rel="stylesheet" type="text/css" href="_static/css/theme.css?v=9edc463e" />
+
+  
+      <script src="_static/documentation_options.js?v=e7be3b63"></script>
+      <script src="_static/doctools.js?v=fd6eb6e6"></script>
+      <script src="_static/sphinx_highlight.js?v=6ffebe34"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Jupyter on your system" href="system.html" />
+    <link rel="prev" title="Installation" href="install.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            Jupyter
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="install.html">Installation</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Configuring Jupyter applications</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#python-config-files">Python config files</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#command-line-arguments">Command line arguments</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="system.html">Jupyter on your system</a></li>
+<li class="toctree-l1"><a class="reference internal" href="data_science.html">Jupyter for Data Science</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">Jupyter</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Configuring Jupyter applications</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/config.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="configuring-jupyter-applications">
+<h1>Configuring Jupyter applications<a class="headerlink" href="#configuring-jupyter-applications" title="Link to this heading">¶</a></h1>
+<p>The Jupyter applications have a common config system, and a common
+<a class="reference internal" href="system.html#config-dir"><span class="std std-ref">config directory</span></a>. By default, this is <code class="docutils literal notranslate"><span class="pre">~/.jupyter</span></code>.</p>
+<p>If kernels use config files, these will normally be organised separately.
+For instance, the IPython kernel looks for files in the <span class="xref std std-ref">IPython directory</span>.</p>
+<section id="python-config-files">
+<h2>Python config files<a class="headerlink" href="#python-config-files" title="Link to this heading">¶</a></h2>
+<p>To create the blank config files, run:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">jupyter</span> <span class="p">{</span><span class="n">application</span><span class="p">}</span> <span class="o">--</span><span class="n">generate</span><span class="o">-</span><span class="n">config</span>
+</pre></div>
+</div>
+<p>The file will be named <code class="file docutils literal notranslate"><span class="pre">jupyter_</span><em><span class="pre">application</span></em><span class="pre">_config.py</span></code></p>
+<p>Inside the file, you can configure class attributes like this:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">c</span><span class="o">.</span><span class="n">NotebookApp</span><span class="o">.</span><span class="n">port</span> <span class="o">=</span> <span class="mi">8754</span>
+</pre></div>
+</div>
+<p>Be careful with spelling–incorrect names will simply be ignored, with
+no error.</p>
+<p>To add to a collection which may have already been defined elsewhere,
+you can use methods like those found on lists, dicts and sets: append,
+extend, <code class="xref py py-meth docutils literal notranslate"><span class="pre">prepend()</span></code> (like
+extend, but at the front), add and update (which works both for dicts
+and sets):</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">c</span><span class="o">.</span><span class="n">TemplateExporter</span><span class="o">.</span><span class="n">template_path</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="s1">&#39;./templates&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+</section>
+<section id="command-line-arguments">
+<h2>Command line arguments<a class="headerlink" href="#command-line-arguments" title="Link to this heading">¶</a></h2>
+<p>Every configurable value can be set from the command line, using this
+syntax:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">jupyter</span> <span class="n">notebook</span> <span class="o">--</span><span class="n">NotebookApp</span><span class="o">.</span><span class="n">port</span><span class="o">=</span><span class="mi">8754</span>
+</pre></div>
+</div>
+<p>Many frequently used options have short aliases and flags, such as
+<code class="docutils literal notranslate"><span class="pre">--port</span> <span class="pre">8754</span></code> or <code class="docutils literal notranslate"><span class="pre">--no-browser</span></code>.</p>
+<p>To see these abbreviated options, run:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">jupyter</span> <span class="p">{</span><span class="n">application</span><span class="p">}</span> <span class="o">--</span><span class="n">help</span>       <span class="c1"># Just the short options</span>
+<span class="n">jupyter</span> <span class="p">{</span><span class="n">application</span><span class="p">}</span> <span class="o">--</span><span class="n">help</span><span class="o">-</span><span class="nb">all</span>   <span class="c1"># Includes options without short names</span>
+</pre></div>
+</div>
+<p>Options specified at the command line, in either format, override
+options set in a configuration file.</p>
+<div class="admonition seealso">
+<p class="admonition-title">See also</p>
+<dl class="simple">
+<dt><a class="reference external" href="https://traitlets.readthedocs.io/en/latest/config.html#module-traitlets.config" title="(in traitlets v5.16)"><code class="docutils literal notranslate"><span class="pre">traitlets.config</span></code></a></dt><dd><p>The low-level architecture of this config system.</p>
+</dd>
+</dl>
+</div>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="install.html" class="btn btn-neutral float-left" title="Installation" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="system.html" class="btn btn-neutral float-right" title="Jupyter on your system" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2015, Jupyter Team, https://jupyter.org.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
